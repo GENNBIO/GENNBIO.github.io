@@ -1,17 +1,18 @@
 ---
 title: "GENNBIO LABORATORY"
 ---
-## ------------------------------------------------------------------------------------------------------------------------
-## - Plant tissue culture
-## Stage 1
-## Stage 2
-## Stage 3
+___
+# Plant tissue culture (pre-aclimatized plantlets)
+## Stage 1__________________________________________________0.15 USD/expl.
+## Stage 2__________________________________________________0.22 USD/expl.
+## Stage 3__________________________________________________0.13 USD/expl.
 ## Stage 4
-## -------------------------------------------------------------------------------------------------------------------------
-## - Plant culture medium
-## Basal medium
-## Proliferation medium
-## Rooting medium
-## Anther culture medium
-## -------------------------------------------------------------------------------------------------------------------------
-## - Plant growth regulators
+___
+# Plant culture medium (10 L.)
+## Basal medium___________________________________________37.00 USD
+## Proliferation medium___________________________________40.00 USD
+## Rooting medium ________________________________________40.00 USD
+## Anther culture medium _________________________________45.00 USD
+___
+# Plant growth regulators
+![In vitro technics](C:\Users\Dell\Desktop\GENNBIO.github.io\BV.jpg)
