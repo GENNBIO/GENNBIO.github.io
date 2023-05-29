@@ -3,14 +3,15 @@ output_dir: "."
 navbar:
   title: "GENNBIO"
   left:
-    - text: "Home"
+    - text: "Principal"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Plant Biotechnology"
+      href: Plant-Biotechnology.html
 output:
   html_document:
     theme: darkly
     highlight: textmate
+    
     
    
     
