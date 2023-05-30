@@ -2,17 +2,28 @@
 title: "GENNBIO LABORATORY"
 ---
 ___
-# Plant tissue culture (pre-aclimatized plantlets)
-## Stage 1__________________________________________________0.15 USD/expl.
-## Stage 2__________________________________________________0.22 USD/expl.
-## Stage 3__________________________________________________0.13 USD/expl.
-## Stage 4
+| 1. In vitro plantlets| Quantity | Price |
+|:-|:-|:-|
+| Stage 1 | 100 expl. | 15.00 USD |
+| Stage 2 | 100 expl. | 22.00 USD |
+| Stage 3 | 100 expl. | 13.00 USD |
+| Stage 4 | 100 expl. | ask for |
+___ 
+| 2. Plant culture medium (10 L.) | Quantity | Price |
+|:-|:-|:-|
+| Basal | 250 mL | 37.00 USD |
+| Proliferation | 250 mL | 40.00 USD |
+| Rooting | 250 mL | 40.00 USD |
+| Anther culture | 250 mL | 45.00 USD |
 ___
-# Plant culture medium (10 L.)
-## Basal medium___________________________________________37.00 USD
-## Proliferation medium___________________________________40.00 USD
-## Rooting medium ________________________________________40.00 USD
-## Anther culture medium _________________________________45.00 USD
+| 3. Plant growth regulators  | Quantity | Price |
+|:-|:-|:-|
+| IAA (auxin, 98%) | 5.0 g | 30.00 USD |
+| IBA (auxin, 0.1%) | 5.0 g |15.00 USD |
+| KIN (cytokinin, 0.01%) | 250 mL | 10.00 USD |
+| BAP (cytokinin, 99%) | 5.0 g | 20.00 USD |
+| GIB (gibberellin, 10%) | 5.0 g | 3.00 USD |
 ___
-# Plant growth regulators
-![In vitro technics](C:\Users\Dell\Desktop\GENNBIO.github.io\BV.jpg)
+
+![In vitro technics](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro web.jpg)
+
