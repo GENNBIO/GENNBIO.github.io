@@ -1,5 +1,5 @@
 ---
-title: "Contacts"
+title: "CONTACTS"
 ---
 ___
 
@@ -14,7 +14,7 @@ ___
 - Email: ventas@gennbioecuador.com
 
 
-- Phone: +593 958861930
+- Whatsapp: +593 958861930
 
 
 - Banco Internacional savings account: 3500748774  
