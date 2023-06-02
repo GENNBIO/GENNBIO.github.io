@@ -11,13 +11,18 @@ navbar:
       href: Brewing.html
     - text: "Book"
       href: Book.html
+    - text: "Cannabis"
+      href: Cannabis.html
+    - text: "Courses"
+      href: Académico.html
     - text: "Contacts"
       href: Contacts.html
+
 output:
   html_document:
     theme: darkly
     highlight: textmate
-    
+
     
    
     

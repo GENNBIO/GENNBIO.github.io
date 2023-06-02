@@ -1,0 +1,21 @@
+---
+title: "GENNBIO COURSES"
+---
+___
+| 1. Plant Biotechnology | Quantity | Price |
+|:-|:-|:-|
+| Introduction to in vitro technics | 1 | 45.00 USD |
+| Plant culture medium formulation | 1 | 70.00 USD |
+| Anther culture | 1 | 70.00 USD |
+| Aclimatization   | 1 | 45.00 |
+___ 
+| 2. Diseño Experimental | Quantity | Price |
+|:-|:-|:-|
+| DCA, DBCA, Parcelas, Arreglos factoriales  | 1 | 45.00 USD |
+| Análisis de experimentos y uso de software R | 1 | 70.00 USD |
+| Análisis de experimentos y uso de software Minitab | 1 | 70.00 USD |
+| Análisis de datos moleculares | 1 | ask for |
+| Econometría | 1 | 45.00 USD |
+___
+
+![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel.jpg){width=10%}

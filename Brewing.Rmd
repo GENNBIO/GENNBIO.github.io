@@ -2,4 +2,29 @@
 title: "GENNBIO BREWING"
 ---
 ___
-![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Brewing 1.jpg)
+![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Brewing 1.jpg){width=50%}
+
+
+
+![*New ancestral beers.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Morti.jpg){width=50%}
+
+
+
+![*Best quality food.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beers.jpg){width=50%}
+
+
+
+![*Mortiñ beer.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Jorge.jpg){width=50%}
+
+
+![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B2.jpg){width=50%}
+
+
+![*Warehouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B1.jpg){width=50%}
+
+![*Premium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Win.jpg){width=50%}
+
+![*GENNBIO.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chess.jpg){width=50%}
+
+
+
