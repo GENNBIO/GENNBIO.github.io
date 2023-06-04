@@ -25,29 +25,34 @@ ___
 | GIB (gibberellin, 10%) | 5.0 g | 3.00 USD |
 ___
 
-![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro web.jpg){width=50%}
+![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro technics_NN.jpg){width=50%}
 
-![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Invernadero 1.jpg){width=50%}
-
-
-![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Maceta 1.jpg){width=50%}
+![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 1_NN.jpg){width=50%}
 
 
-![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\People 4.jpg){width=50%}
+![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
+
+![*Greenhouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
 
 
-![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\People 1.jpg){width=50%}
+![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 1_NN.jpg){width=50%}
+
+
+![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 2_NN.jpg){width=50%}
 
 
 
-![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\People 2.jpg){width=50%}
+![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 3_NN.jpg){width=50%}
 
 
-![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\People 5.jpg){width=50%}
+![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 4_NN.jpg){width=50%}
 
-![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Terreno.jpg){width=50%}
+![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 1_NN.jpg){width=50%}
 
-![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair1.jpg){width=50%}
+![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 2_NN.jpg){width=50%}
+
+
+![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair 1_NN.jpg){width=50%}
 
 
 

@@ -31,7 +31,7 @@ ___
 | Synbio | 1 | 70.00 USD |
 | Genetic transformation | 1 | 100.00 USD |
 
-![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel3.jpg){width=10%}
+![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
 
 
 
