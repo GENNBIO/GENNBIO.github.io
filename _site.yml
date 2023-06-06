@@ -4,7 +4,7 @@ navbar:
   title: "GENNBIO"
   left:
     - text: "Principal"
-      href: Principal.html
+      href: index.html
     - text: "Plant Biotechnology"
       href: Plant-Biotechnology.html
     - text: "Brewing"
