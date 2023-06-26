@@ -35,4 +35,5 @@ body {text-align: center}
 ![*GENNBIO (WiFi zone 2).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 2_NN.jpg){width=50%}
 
 
-___
+![*EC*](C:\Users\Dell\Desktop\GENNBIO.github.io\EC.gif){width=4%}
+

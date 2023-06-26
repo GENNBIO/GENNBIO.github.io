@@ -65,5 +65,9 @@ body {text-align: center}
 
 ![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PGR_NN.jpg){width=25%}
 
-___
+
+
+![*EC*](C:\Users\Dell\Desktop\GENNBIO.github.io\EC.gif){width=4%}
+
+
 
