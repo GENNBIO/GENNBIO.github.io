@@ -29,7 +29,6 @@ body {text-align: center}
 
 ![*Warehouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B1_NN.jpg){width=50%}
 
-![*Premium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Premium_NN.jpg){width=50%}
 
 ![*GENNBIO (WiFi zone 1).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 1_NN.jpg){width=50%}
 
