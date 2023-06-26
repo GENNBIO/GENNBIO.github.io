@@ -2,6 +2,10 @@
 title: "GENNBIO COURSES"
 ---
 ___
+<style>
+body {text-align: center}
+</style>
+___
 | 1. Plant Biotechnology (Laboratory) | Quantity | Price |
 |:-|:-|:-|
 | Introduction to in vitro technics | 1 | 45.00 USD |
