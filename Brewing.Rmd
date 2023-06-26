@@ -2,6 +2,13 @@
 title: "GENNBIO BREWING"
 ---
 ___
+
+<style>
+body {text-align: center}
+</style>
+
+
+
 ![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Brewing 1_NN.jpg){width=50%}
 
 
@@ -29,3 +36,4 @@ ___
 ![*GENNBIO (WiFi zone 2).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 2_NN.jpg){width=50%}
 
 
+___
