@@ -25,6 +25,12 @@ ___
 | GIB (gibberellin, 10%) | 5.0 g | 3.00 USD |
 ___
 
+<style>
+body {text-align: center}
+</style>
+
+
+
 ![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro technics_NN.jpg){width=50%}
 
 
@@ -59,4 +65,5 @@ ___
 
 ![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PGR_NN.jpg){width=25%}
 
+___
 
