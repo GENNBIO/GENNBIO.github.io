@@ -21,7 +21,7 @@ navbar:
 
 output:
   html_document:
-    theme: spacelab
+    theme: cosmo
     highlight: textmate
 
     
