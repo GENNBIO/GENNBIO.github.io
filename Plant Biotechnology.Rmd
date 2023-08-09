@@ -25,6 +25,7 @@ ___
 | GIB (gibberellin, 10%) | 5.0 g | 3.00 USD |
 ___
 
+
 <style>
 body {text-align: center}
 </style>
