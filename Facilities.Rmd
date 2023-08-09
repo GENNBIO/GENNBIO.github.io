@@ -32,7 +32,7 @@ ___
 
 
 <details> 
-<summary> *Wifi zones* </summary>
+<summary> *Wifi zones.* </summary>
 
 ![*WiFi zone 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 3_NN.jpg){width=50%}
 
