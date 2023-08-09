@@ -2,20 +2,29 @@
 title: "GENNBIO LABORATORY"
 ---
 ___
+
 | 1. In vitro plantlets| Quantity | Price |
 |:-|:-|:-|
 | Stage 1 | 100 expl. | 15.00 USD |
 | Stage 2 | 100 expl. | 22.00 USD |
 | Stage 3 | 100 expl. | 13.00 USD |
 | Stage 4 | 100 expl. | ask for |
-___ 
+
+
+
+
+
 | 2. Plant culture medium (10 L.) | Quantity | Price |
 |:-|:-|:-|
 | Basal | 250 mL | 37.00 USD |
 | Proliferation | 250 mL | 40.00 USD |
 | Rooting | 250 mL | 40.00 USD |
 | Anther culture | 250 mL | 45.00 USD |
-___
+
+
+
+
+
 | 3. Plant growth regulators  | Quantity | Price |
 |:-|:-|:-|
 | IAA (auxin, 98%) | 5.0 g | 30.00 USD |
@@ -23,97 +32,20 @@ ___
 | KIN (cytokinin, 0.01%) | 250 mL | 10.00 USD |
 | BAP (cytokinin, 99%) | 5.0 g | 20.00 USD |
 | GIB (gibberellin, 10%) | 5.0 g | 3.00 USD |
-___
+
 
 
 <style>
 body {text-align: center}
 </style>
 
-<details> 
-<summary> *In vitro technics.* </summary>
 
 
-![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro technics_NN.jpg){width=50%}
-</details>
+
+![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
 
 
-<details> 
-<summary> *Ex vitro.* </summary>
-
-
-![*Ex vitro.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Ex vitro_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *Greenhouse 1.* </summary>
-
-
-![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 1_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *Triple hybrid.* </summary>
-
-
-![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *Greenhouse 2.* </summary>
-
-
-![*Greenhouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *I SFA-UTC.* </summary>
-
-
-![*I SFA-UTC.*](C:\Users\Dell\Desktop\GENNBIO.github.io\ISFA-UTC_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *Agri-business meetings.* </summary>
-
-
-![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 4_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *Field.* </summary>
-
-
-![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 1_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *Field.* </summary>
-
-
-![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 2_NN.jpg){width=50%}
-</details>
-
-
-<details> 
-<summary> *GENNBIO (Principal office).* </summary>
-
-
-![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair 1_NN.jpg){width=50%}
-</details>
-___
-
-![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=25%}
-
-
-![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PGR_NN.jpg){width=25%}
+![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PGR_NN.jpg){width=50%}
 
 
 

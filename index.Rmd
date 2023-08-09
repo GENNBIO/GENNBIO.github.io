@@ -7,10 +7,9 @@ fitomejoramieNto_geNética_biotecNología
 ___
 
 
-![*3Ns.*](C:\Users\Dell\Desktop\GENNBIO.github.io\GENNBIO Web3_NN.jpg)
+![*3Ns.*](C:\Users\Dell\Desktop\GENNBIO.github.io\NN_NN.png)
 
 
-___
 <style>
 body {text-align: justify}
 </style> 
@@ -19,10 +18,6 @@ body {text-align: justify}
 ## ***GENNBIO is an Ecuadorian company created to generate solutions that contribute to the development of areas related to human development in agricultural, molecular and biotechnology sciences. As a based-science company we offer a wide range of products, and services. Get involved with these current technics to apply in your field and projects***.
 
 
-
-
-
-
-
+![*3Ns.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Breeding_NN.jpg)
 
 

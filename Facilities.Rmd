@@ -1,0 +1,101 @@
+---
+title: "GENNBIO FACILITIES"
+---
+___
+<details> 
+<summary> *Principal office.* </summary>
+
+
+![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair 1_NN.jpg){width=50%}
+
+
+</details>
+
+
+<details> 
+<summary> *Laboratory.* </summary>
+
+
+![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Lab_NN.jpg){width=50%}
+
+
+![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Lab2_NN.jpg){width=50%}
+
+
+![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro technics_NN.jpg){width=50%}
+
+
+![*Ex vitro.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Ex vitro_NN.jpg){width=50%}
+
+
+</details>
+
+
+<details> 
+<summary> *Wifi zones* </summary>
+
+![*WiFi zone 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 3_NN.jpg){width=50%}
+
+
+![*WiFi zone 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 2_NN.jpg){width=50%}
+
+
+</details>
+
+
+<details> 
+<summary> *Greenhouses.* </summary>
+
+
+![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 1_NN.jpg){width=50%}
+
+
+![*Greenhouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
+
+
+![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
+
+
+![*Stage 3.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage3_NN.jpg){width=50%}
+
+
+</details>
+
+
+<details> 
+<summary> *Warehouse.* </summary>
+
+
+![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B2_NN.jpg){width=50%}
+
+
+</details>
+
+
+<details> 
+<summary> *Research, Development & Innovation (RD+i).* </summary>
+
+
+![*I SFA-UTC.*](C:\Users\Dell\Desktop\GENNBIO.github.io\ISFA-UTC_NN.jpg){width=50%}
+
+
+![*Mortiñ beer.*](C:\Users\Dell\Desktop\GENNBIO.github.io\MBS_NN.jpg){width=50%}
+
+
+![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 4_NN.jpg){width=50%}
+
+
+</details>
+
+
+<details> 
+<summary> *Field.* </summary>
+
+
+![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 1_NN.jpg){width=50%}
+
+
+![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 2_NN.jpg){width=50%}
+
+
+</details>

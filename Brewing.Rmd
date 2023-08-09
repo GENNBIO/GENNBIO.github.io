@@ -16,19 +16,7 @@ body {text-align: center}
 ![*New ancestral beers.*](C:\Users\Dell\Desktop\GENNBIO.github.io\New ancestral beers_NN.jpg){width=50%}
 
 
-
-![*Mortiñ beer.*](C:\Users\Dell\Desktop\GENNBIO.github.io\MBS_NN.jpg){width=50%}
-
-
-![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B2_NN.jpg){width=50%}
-
-
-![*Warehouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B1_NN.jpg){width=50%}
-
-
-![*GENNBIO (WiFi zone 1).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 1_NN.jpg){width=50%}
-
-![*GENNBIO (WiFi zone 2).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 2_NN.jpg){width=50%}
+![*Drinkability.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wheat_NN.jpg){width=50%}
 
 
 ![*EC*](C:\Users\Dell\Desktop\GENNBIO.github.io\EC.gif){width=4%}
