@@ -29,36 +29,60 @@ ___
 body {text-align: center}
 </style>
 
+<details> 
+<summary> *In vitro technics.* </summary>
 
 
 ![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro technics_NN.jpg){width=50%}
-
+</details>
 
 
 ![*Ex vitro.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Ex vitro_NN.jpg){width=50%}
 
 
+<details> 
+<summary> *Greenhouse 1.* </summary>
+
 
 ![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 1_NN.jpg){width=50%}
+</details>
 
 
 ![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
 
+
+<details> 
+<summary> *Greenhouse 2.* </summary>
+
+
 ![*Greenhouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
+</details>
 
 
 ![*I SFA-UTC.*](C:\Users\Dell\Desktop\GENNBIO.github.io\ISFA-UTC_NN.jpg){width=50%}
 
 
+<details> 
+<summary> *Agri-business meetings.* </summary>
+
 
 ![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 4_NN.jpg){width=50%}
+</details>
+
 
 ![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 1_NN.jpg){width=50%}
 
+
+<details> 
+<summary> *Field.* </summary>
+
+
 ![*Field.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Field 2_NN.jpg){width=50%}
+</details>
 
 
 ![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair 1_NN.jpg){width=50%}
+
 
 ![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=25%}
 
