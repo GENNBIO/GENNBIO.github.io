@@ -107,7 +107,7 @@ body {text-align: center}
 
 ![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair 1_NN.jpg){width=50%}
 </details>
-
+___
 
 ![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=25%}
 
