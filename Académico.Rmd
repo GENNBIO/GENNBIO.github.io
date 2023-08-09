@@ -8,10 +8,11 @@ body {text-align: center}
 
 | 1. Plant Biotechnology (Laboratory) | Quantity | Price |
 |:-|:-|:-|
-| Introduction to in vitro technics | 1 | 45.00 USD |
+| Introduction to in vitro technics  | 1 | 45.00 USD | 
 | Plant culture medium formulation | 1 | 70.00 USD |
 | Anther culture | 1 | 70.00 USD |
 | Aclimatization   | 1 | 45.00 |
+
 ___ 
 | 2. Diseño Experimental (WiFi zone) | Quantity | Price |
 |:-|:-|:-|
@@ -37,11 +38,90 @@ ___
 
 ![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
 
+<details> 
+<summary> Plant culture medium formulation </summary>
 
 
+Sesión 1 (zona wifi): Componentes del medio de cultivo
 
 
+Sesión 2 (laboratorio): Fórmulas químicas por volumen de medio de cultivo
 
 
+Sesión 3 (laboratorio): Formulación y estandarización en el laboratorio
 
 
+Sesión 4 (laboratorio): Pruebas iniciales
+
+
+Sesión 5 (zona wifi): Fisiología in vitro y reguladores de crecimiento
+
+
+Sesión 6 (zona wifi): Nuevas formulaciones
+
+
+*** Duración: 18 horas académicas y 12 horas autónomas
+
+
+*** Certificado: Aprobación y asistencia
+
+
+</details>
+
+
+<details> 
+<summary> Anther culture </summary>
+
+
+Sesión 1 (zona wifi): Fundamentos técnicos: verdaderos doble haploides 
+
+
+Sesión 2 (laboratorio): Selección del medio de cultivo
+
+
+Sesión 3 (laboratorio): Desinfección e introducción de explantos genéticamente viables 
+
+
+Sesión 4 (laboratorio): Tratamientos biotecnológicos
+
+
+Sesión 5 (zona wifi): Programas de mejoramiento biotecnológico
+
+
+Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
+
+
+*** Duración: 18 horas académicas y 12 horas autónomas
+
+
+*** Certificado: Aprobación y asistencia
+
+
+</details>
+
+<details> 
+<summary> Análisis de experimentos </summary>
+
+
+Sesión 1 (zona wifi): DCA, DCL, DBCA, Parcelas divididas, Arreglos factoriales 
+
+
+Sesión 2 (laboratorio): Estadística aplicada por diseño experimental
+
+
+Sesión 3 (laboratorio): Introducción al uso del software R
+
+
+Sesión 4 (laboratorio): Box-plot, Análisis de varianza (ANVA), Comparación de medias, Covarianza (ANCOVA) 
+
+
+Sesión 5 (zona wifi): Scripts en R y su uso en la agricultura
+
+
+Sesión 6 (zona wifi): Uso del software Minitab 16 y 17 
+
+
+*** ask for
+
+
+</details>
