@@ -17,6 +17,8 @@ navbar:
       href: Académico.html
     - text: "Facilities"
       href: Facilities.html
+    - text: "R.I.C.E"
+      href: RICE.html
     - text: "Contacts"
       href: Contacts.html
 
