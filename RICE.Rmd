@@ -33,10 +33,10 @@ Enfoque ancestral, investigativo, y vanguardista en el mejoramiento genético de
 
 
 
-![*Pepino dulce.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE1_NN.png)
+![*Pepino dulce.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE1_NN.png){width=50%}
 
 
-![*In vitro seedling.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE2_NN.png)
+![*In vitro seedling.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE2_NN.jpg) {width=50%}
 
 
 3Ns.
