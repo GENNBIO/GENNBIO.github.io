@@ -7,6 +7,16 @@ ___
 
 
 
+<style>
+body {text-align: justify}
+</style> 
+
+
+
+Enfoque ancestral, investigativo, y vanguardista en el mejoramiento genético de pepino dulce y tzímbalo, y herramientas biotecnológicas aplicables al campo ecuatoriano. Variedades únicas, semilla certificada, aroma afrutado exótico.     
+
+
+
 [Morales, J. & Vaca, I. (2016) Propagación in vitro de tzímbalo. RTE-ESPOL 29.2.](http://www.rte.espol.edu.ec/index.php/tecnologica/article/view/547)
 
 
@@ -23,4 +33,5 @@ ___
 
 
 3Ns.
+
 
