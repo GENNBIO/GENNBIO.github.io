@@ -1,5 +1,5 @@
 ---
-title: "GENNBIO BREWING"
+title: "FOOD & BREWING"
 ---
 ___
 
@@ -18,6 +18,6 @@ body {text-align: center}
 
 ![*Drinkability.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wheat_NN.jpg){width=50%}
 
+![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=50%}
 
-![*EC*](C:\Users\Dell\Desktop\GENNBIO.github.io\EC.gif){width=4%}
 

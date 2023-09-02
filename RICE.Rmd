@@ -32,13 +32,11 @@ Enfoque ancestral, investigativo, y vanguardista en el mejoramiento genético de
 [Morales, J. _ (2023-2024) Improvement of sweet pepino (Solanum muricatum Aiton) crop by agri-biotechnological methods in Cotopaxi-Ecuador. GENNBIOX (version to be published).](https://GENNBIO.github.io)
 
 
-
-![*Pepino dulce.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE1_NN.jpg){width=50%}
-
-
-![*In vitro seedling.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE2_NN.jpg){width=50%}
+![*In vitro seedling.*](C:\Users\Dell\Desktop\GENNBIO.github.io\RICE2_NN.jpg){width=25%}
 
 
-3Ns.
+![*Improved sweet pepino.*](C:\Users\Dell\Desktop\GENNBIO.github.io\JAM_NN.jpg){width=20%}
+
+![*EC*](C:\Users\Dell\Desktop\GENNBIO.github.io\EC.gif){width=4%}
 
 
