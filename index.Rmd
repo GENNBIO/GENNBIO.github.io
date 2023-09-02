@@ -14,7 +14,7 @@ body {text-align: justify}
 
 
 *All rights reserved 2023.*
-*Latacunga | Quito,  Ecuador.*
+*Latacunga | Quito, Ecuador.*
 
 
 
