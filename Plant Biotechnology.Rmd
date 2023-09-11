@@ -13,6 +13,10 @@ ___
 
 
 
+![*In vitro plantlets.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods_NN.jpg){width=50%}
+
+
+
 
 | 2. Plant culture medium (10 L.) | Quantity | Price |
 |:-|:-|:-|
@@ -21,6 +25,10 @@ ___
 | Rooting | 250 mL | 40.00 USD |
 | Anther culture | 250 mL | 45.00 USD |
 
+
+
+
+![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
 
 
 
@@ -39,10 +47,6 @@ ___
 body {text-align: center}
 </style>
 
-
-
-
-![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
 
 
 ![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PGR_NN.jpg){width=50%}
