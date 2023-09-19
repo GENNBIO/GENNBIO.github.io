@@ -14,9 +14,8 @@ ___
 
 
 ![*In vitro plantlets.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods_NN.jpg){width=50%}
+
 ___
-
-
 
 | 2. Plant culture medium (10 L.) | Quantity | Price |
 |:-|:-|:-|
@@ -29,9 +28,8 @@ ___
 
 
 ![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
+
 ___
-
-
 
 | 3. Plant growth regulators  | Quantity | Price |
 |:-|:-|:-|
