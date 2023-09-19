@@ -21,6 +21,7 @@ navbar:
       href: RICE.html
     - text: "Contacts"
       href: Contacts.html
+    
 
 output:
   html_document:
