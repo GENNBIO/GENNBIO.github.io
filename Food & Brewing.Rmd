@@ -21,3 +21,4 @@ body {text-align: center}
 ![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=50%}
 
 
+![*Black garlic.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Black garlic_NN.png){width=50%}

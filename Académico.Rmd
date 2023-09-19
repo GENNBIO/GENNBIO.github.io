@@ -14,41 +14,6 @@ body {text-align: center}
 | Aclimatization   | 1 | 45.00 |
 
 
-
- 
-| 2. Diseño Experimental (WiFi zone) | Quantity | Price |
-|:-|:-|:-|
-| DCA, DBCA, DCL, Parcelas, Arreglos factoriales  | 1 | 45.00 USD |
-| Análisis de experimentos y uso de software R | 1 | 70.00 USD |
-| Análisis de experimentos y uso de software Minitab | 1 | 70.00 USD |
-| Análisis de datos moleculares | 1 | ask for |
-
-
-
-
-| 3. Econometría (WiFi zone) | Quantity | Price |
-|:-|:-|:-|
-| Proyecciones simples  | 1 | 30.00 USD |
-| Proyecciones múltiples | 1 | 45.00 USD |
-| Valoración y riesgo | 1 | 45.00 USD |
-| Modelos estadísticos | 1 | 70.00 USD |
-
-
-
-
-4. Bioinformatics (Laboratory and WiFi zone)  | Quantity | Price |
-|:-|:-|:-|
-| Genomics repositories  | 1 | 30.00 USD |
-| Sequence homology | 1 | 45.00 USD |
-| Web sites | 1 | 70.00 USD |
-| Synbio | 1 | 70.00 USD |
-| Genetic transformation | 1 | 100.00 USD |
-
-
-
-
-![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
-
 <details> 
 <summary> Plant culture medium formulation </summary>
 
@@ -110,6 +75,16 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 
 </details>
 
+
+___
+| 2. Diseño Experimental (WiFi zone) | Quantity | Price |
+|:-|:-|:-|
+| DCA, DBCA, DCL, Parcelas, Arreglos factoriales  | 1 | 45.00 USD |
+| Análisis de experimentos y uso de software R | 1 | 70.00 USD |
+| Análisis de experimentos y uso de software Minitab | 1 | 70.00 USD |
+| Análisis de datos moleculares | 1 | ask for |
+
+
 <details> 
 <summary> Análisis de experimentos </summary>
 
@@ -136,5 +111,31 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 
 
 </details>
+
+
+___
+| 3. Econometría (WiFi zone) | Quantity | Price |
+|:-|:-|:-|
+| Proyecciones simples  | 1 | 30.00 USD |
+| Proyecciones múltiples | 1 | 45.00 USD |
+| Valoración y riesgo | 1 | 45.00 USD |
+| Modelos estadísticos | 1 | 70.00 USD |
+
+
+___
+4. Bioinformatics (Laboratory and WiFi zone)  | Quantity | Price |
+|:-|:-|:-|
+| Genomics repositories  | 1 | 30.00 USD |
+| Sequence homology | 1 | 45.00 USD |
+| Web sites | 1 | 70.00 USD |
+| Synbio | 1 | 70.00 USD |
+| Genetic transformation | 1 | 100.00 USD |
+
+
+
+
+![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
+
+
 
 
