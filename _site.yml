@@ -19,10 +19,11 @@ navbar:
       href: Facilities.html
     - text: "R.I.C.E."
       href: RICE.html
-    - text: "Contacts"
-      href: Contacts.html
     - text: "3Ns"
       href: Tres etiquetas_NN.pdf
+    - text: "Contacts"
+      href: Contacts.html
+  
 
 output:
   html_document:
