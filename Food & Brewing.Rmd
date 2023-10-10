@@ -17,6 +17,7 @@ body {text-align: center}
 
 
 ![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
+___
 
 
 ### **2. Mermelada de pepino dulce**
@@ -24,6 +25,7 @@ body {text-align: center}
 
 
 ![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=50%}
+___
 
 
 ### **3. Ajo negro**

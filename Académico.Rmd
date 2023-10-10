@@ -77,6 +77,7 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 </details>
 
 
+
 ### **2. Diseño experimental**
 
 | 2. Experimental Design | Quantity | Price |
@@ -115,6 +116,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 </details>
 
 
+
 ### **3. Econometría**
 
 | 3. Econometry | Quantity | Price |
@@ -123,6 +125,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 | Proyecciones múltiples | 1 | 45.00 USD |
 | Valoración y riesgo | 1 | 45.00 USD |
 | Modelos estadísticos | 1 | 70.00 USD |
+
 
 
 ### **4. Bioinformática**
