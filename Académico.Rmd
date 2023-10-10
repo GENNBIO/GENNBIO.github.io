@@ -5,8 +5,9 @@ ___
 <style>
 body {text-align: center}
 </style>
+### **1. Biotecnología vegetal**
 
-| 1. Plant Biotechnology (Laboratory) | Quantity | Price |
+| 1. Plant Biotechnology | Quantity | Price |
 |:-|:-|:-|
 | Introduction to in vitro technics  | 1 | 45.00 USD | 
 | Plant culture medium formulation | 1 | 70.00 USD |
@@ -76,8 +77,9 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 </details>
 
 
-___
-| 2. Diseño Experimental (WiFi zone) | Quantity | Price |
+### **2. Diseño experimental**
+
+| 2. Experimental Design | Quantity | Price |
 |:-|:-|:-|
 | DCA, DBCA, DCL, Parcelas, Arreglos factoriales  | 1 | 45.00 USD |
 | Análisis de experimentos y uso de software R | 1 | 70.00 USD |
@@ -113,8 +115,9 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 </details>
 
 
-___
-| 3. Econometría (WiFi zone) | Quantity | Price |
+### **3. Econometría**
+
+| 3. Econometry | Quantity | Price |
 |:-|:-|:-|
 | Proyecciones simples  | 1 | 30.00 USD |
 | Proyecciones múltiples | 1 | 45.00 USD |
@@ -122,8 +125,9 @@ ___
 | Modelos estadísticos | 1 | 70.00 USD |
 
 
-___
-4. Bioinformatics (Laboratory and WiFi zone)  | Quantity | Price |
+### **4. Bioinformática**
+
+4. Bioinformatics | Quantity | Price |
 |:-|:-|:-|
 | Genomics repositories  | 1 | 30.00 USD |
 | Sequence homology | 1 | 45.00 USD |

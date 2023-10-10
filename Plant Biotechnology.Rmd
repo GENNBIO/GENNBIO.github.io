@@ -2,6 +2,7 @@
 title: "GENNBIO LABORATORY"
 ---
 ___
+### **1. Plántulas in vitro**
 
 | 1. In vitro plantlets| Quantity | Price |
 |:-|:-|:-|
@@ -15,9 +16,9 @@ ___
 
 ![*In vitro plantlets.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods_NN.jpg){width=50%}
 
-___
+### **2. Medio de cultivo para tejidos vegetales**
 
-| 2. Plant culture medium (10 L.) | Quantity | Price |
+| 2. Plant tissue culture medium (10 L.) | Quantity | Price |
 |:-|:-|:-|
 | Basal | 250 mL | 37.00 USD |
 | Proliferation | 250 mL | 40.00 USD |
@@ -27,9 +28,9 @@ ___
 
 
 
-![*Plant culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
+![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
 
-___
+### **3. Reguladores de crecimiento vegetal**
 
 | 3. Plant growth regulators  | Quantity | Price |
 |:-|:-|:-|

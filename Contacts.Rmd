@@ -3,7 +3,7 @@ title: "CONTACTS"
 ---
 ___
 
-## Mg. Sc. Juan Morales
+**Mg. Sc. Juan Morales**
 
 - GENNBIO laboratory: Guayaquil St. and Quijano y Ordóñez, Latacunga-Ecuador.
 
@@ -22,4 +22,4 @@ ___
 
 ![*3Ns.*](C:\Users\Dell\Desktop\GENNBIO.github.io\EC.gif){width=4%}
 
-
+### **breediNg_geNetics_biotechNology**

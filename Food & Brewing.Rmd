@@ -7,7 +7,7 @@ ___
 body {text-align: center}
 </style>
 
-
+### **1. Cerveza**
 
 ![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Brewing 1_NN.jpg){width=50%}
 
@@ -18,7 +18,16 @@ body {text-align: center}
 
 ![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
 
+
+### **2. Mermelada de pepino dulce**
+
+
+
 ![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=50%}
+
+
+### **3. Ajo negro**
+
 
 
 ![*Black garlic.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Black garlic_NN.png){width=50%}
