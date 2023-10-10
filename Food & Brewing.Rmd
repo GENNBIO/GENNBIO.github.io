@@ -1,5 +1,5 @@
 ---
-title: "FOOD & BREWING"
+title: "**FOOD & BREWING**"
 ---
 ___
 
@@ -17,6 +17,8 @@ body {text-align: center}
 
 
 ![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
+
+
 ___
 
 
@@ -25,6 +27,8 @@ ___
 
 
 ![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=50%}
+
+
 ___
 
 

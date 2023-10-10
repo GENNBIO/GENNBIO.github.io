@@ -1,8 +1,9 @@
 ---
-title: "GENNBIO"
+title: "**GENNBIO**"
 ---
 
-**fitomejoramieNto_geNética_biotecNología**
+### fitomejoramieNto_geNética_biotecNología
+### Your success is our priority.
 
 ___
 ![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\PCM_NN.jpg)
@@ -17,8 +18,6 @@ GENNBIO is an Ecuadorian company created to generate solutions that contribute t
 
 ___
 
-
-### Your success is our priority.
 
 
 ***All rights reserved 2023.***

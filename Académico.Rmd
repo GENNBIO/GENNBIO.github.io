@@ -1,5 +1,5 @@
 ---
-title: "GENNBIO COURSES"
+title: "**GENNBIO COURSES**"
 ---
 ___
 <style>
