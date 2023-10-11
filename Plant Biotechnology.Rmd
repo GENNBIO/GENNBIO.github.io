@@ -54,6 +54,14 @@ body {text-align: center}
 
 
 
+### **4. Agente duplicador de cromosomas**
+
+| 4. Chromosome doubling agent| Quantity | Price |
+|:-|:-|:-|
+| ADC (0.5%) | 100 mL | 100.00 USD |
+| ADC (0.5%) | 50 mL | 70.00 USD |
+| ADC (0.5%) | 25 mL | 55.00 USD |
 
 
+![*CDA.*](C:\Users\Dell\Desktop\GENNBIO.github.io\CDA_NN.jpg){width=50%}
 
