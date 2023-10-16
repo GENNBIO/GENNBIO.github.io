@@ -18,7 +18,7 @@ ___
 <summary> *Laboratory.* </summary>
 
 
-![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Lab_NN.jpg){width=50%}
+![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\LAB_NN23.png){width=50%}
 
 
 ![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Lab2_NN.jpg){width=50%}
