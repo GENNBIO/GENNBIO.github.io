@@ -9,16 +9,12 @@ navbar:
       href: Plant-Biotechnology.html
     - text: "Food & Brewing"
       href: Food---Brewing.html
-    - text: "Book"
-      href: Book.html
-    - text: "Cannabis"
-      href: Cannabis.html
     - text: "Courses"
       href: Académico.html
-    - text: "Facilities"
-      href: Facilities.html
     - text: "R.I.C.E."
       href: RICE.html
+    - text: "Facilities"
+      href: Facilities.html
     - text: "Downloads"
       href: Meta-análisis_NN.pdf
     - text: "Mp4"
