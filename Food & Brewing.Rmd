@@ -13,9 +13,6 @@ body {text-align: center}
 
 
 
-![*New ancestral beers.*](C:\Users\Dell\Desktop\GENNBIO.github.io\New ancestral beers_NN.jpg){width=50%}
-
-
 ![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
 
 
