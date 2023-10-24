@@ -9,14 +9,17 @@ body {text-align: center}
 
 ### **1. Cerveza**
 
-![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Brewing 1_NN.jpg){width=50%}
+![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\40_NN.png){width=50%}
 
+
+Oatmeal stout, weizenbock, irish red, and others. Best offer for 40 bottles. 2.00 USD/bottle premium.  
 
 
 ![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
 
 
 ___
+<br>
 
 
 ### **2. Mermelada de pepino dulce**
@@ -27,6 +30,7 @@ ___
 
 
 ___
+<br>
 
 
 ### **3. Ajo negro**
