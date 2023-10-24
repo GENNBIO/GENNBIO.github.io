@@ -13,8 +13,6 @@ body {text-align: center}
 | Plant culture medium formulation | 1 | 70.00 USD |
 | Anther culture | 1 | 70.00 USD |
 | Aclimatization   | 1 | 45.00 |
-
-
 <details> 
 <summary> Plant culture medium formulation </summary>
 
@@ -75,7 +73,7 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 
 
 </details>
-
+<br>
 
 
 ### **2. Diseño experimental**
@@ -86,8 +84,6 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 | Análisis de experimentos y uso de software R | 1 | 70.00 USD |
 | Análisis de experimentos y uso de software Minitab | 1 | 70.00 USD |
 | Análisis de datos moleculares | 1 | ask for |
-
-
 <details> 
 <summary> Análisis de experimentos </summary>
 
@@ -114,7 +110,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 
 
 </details>
-
+<br>
 
 
 ### **3. Econometría**
@@ -125,7 +121,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 | Proyecciones múltiples | 1 | 45.00 USD |
 | Valoración y riesgo | 1 | 45.00 USD |
 | Modelos estadísticos | 1 | 70.00 USD |
-
+<br>
 
 
 ### **4. Bioinformática**
@@ -137,8 +133,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 | Web sites | 1 | 70.00 USD |
 | Synbio | 1 | 70.00 USD |
 | Genetic transformation | 1 | 100.00 USD |
-
-
+<br>
 
 
 ![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
