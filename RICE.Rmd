@@ -3,7 +3,6 @@ title: "**Red de Investigación Científica Emergente**"
 ---
 ___
 ### **Obra Educativa**
-
 Morales, J. & Chiluisa-Utreras, V. (2022) Mejoramiento biotecnológico de plantas y modificación genética. Editorial Grupo Compás.
 
 
@@ -70,8 +69,9 @@ Investigaciones en curso.
 
 
 ___
-### **Néctar de la delicia**
 
+
+### **Néctar de la delicia**
 Pacheco, E. & Morales, J. (2023) In vitro multiplication of hemp (Cannabis sp.) in Cotopaxi-Ecuador. London Journal of Research in Science: Natural and Formal 23.7:1-9.
 
 
@@ -84,4 +84,4 @@ Pacheco, E. & Morales, J. (2023) In vitro multiplication of hemp (Cannabis sp.) 
 
 
 ![*Cannabis sp.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PV_NN.jpg){width=10%}
---
+
