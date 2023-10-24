@@ -6,9 +6,9 @@ ___
 
 Morales, J. & Chiluisa-Utreras, V. (2022) Mejoramiento biotecnológico de plantas y modificación genética. Editorial Grupo Compás.
 
-![*1st Edition.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Book_NN.jpg){width=10%}
 
 ___
+<br>
 ### **Pepino dulce | Tzímbalo**
 
 <style>
@@ -21,7 +21,7 @@ Enfoque ancestral, investigativo, y vanguardista en el mejoramiento genético de
 
 
 
-[Morales, J. & Vaca, I. (2016) Propagación in vitro de tzímbalo. RTE-ESPOL 29.2.](http://www.rte.espol.edu.ec/index.php/tecnologica/article/view/547)
+Morales, J. & Vaca, I. (2016) Propagación in vitro de tzímbalo. RTE-ESPOL 29.2.[-->](http://www.rte.espol.edu.ec/index.php/tecnologica/article/view/547)
 
 
 [Morales, J. et al. (2021) Gene expression of flavanone 3-hydroxylase (F3H), anthocyanidin synthase (ANS), and p-coumaroyl ester 3-hydroxilase (C3H) in tzimbalo fruit. IJASEIT 11.2, 805-813.](https://ijaseit.insightsociety.org/index.php?option=com_content&view=article&id=9&Itemid=1&article_id=13681)
