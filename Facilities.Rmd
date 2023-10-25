@@ -49,6 +49,9 @@ ___
 <summary> *Greenhouses.* </summary>
 
 
+![*Stage 3.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage32_NN.png){width=50%}
+
+
 ![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 1_NN.jpg){width=50%}
 
 
@@ -57,7 +60,7 @@ ___
 
 ![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
 
-![*Stage 3.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage32_NN.png){width=50%}
+
 
 
 ![*Stage 3.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage3_NN.jpg){width=50%}
