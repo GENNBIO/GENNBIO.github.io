@@ -16,8 +16,24 @@ Oatmeal stout, weizenbock, irish red, and others. Best offer for 40 bottles. 2.0
 <br>
 
 
-![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
+| Beer | ABV | IBU´s |Price |
+|:-|:-|:-|:-|
+| Oatmeal stout  | 5.0% V | 24 IBU |2.00 USD/bottle | 
+| Weizenbock | 9.0% V | 24 IBU |2.00 USD/bottle|
+| Irish red | 4.6% V | 32 IBU |2.00 USD/bottle|
+| Rye beer   | 5.5% V | 25 IBU |ask for|
+| Belgian tripel   | 4.5% V | 35 IBU |ask for|
+| Bio-fortified beer  | X.X% V | XX IBU |ask for|
+<br>
 
+
+![*Oatmeal stout.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Os_NN.jpg){width=25%}
+
+
+<br>
+
+
+![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=50%}
 
 ___
 <br>
