@@ -25,11 +25,11 @@ navbar:
 
 output:
   html_document:
-    theme: yeti
+    theme: flatly
     highlight: textmate
     toc: true
     toc_float: true
-    
+
    
     
     
