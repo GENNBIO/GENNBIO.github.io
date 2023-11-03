@@ -27,13 +27,13 @@ Oatmeal stout, weizenbock, irish red, and others. Best offer for 40 bottles. 2.0
 <br>
 
 
-![*Oatmeal stout.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Os_NN.jpg){width=20%}
+![*Oatmeal stout.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Os_NN.jpg){width=12%}
 
 
 <br>
 
 
-![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=25%}
+![*Purity law.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Beer023_NN.jpg){width=10%}
 
 ___
 <br>
@@ -43,7 +43,7 @@ ___
 
 
 
-![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=25%}
+![*Sweet pepino jam.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Sweet_NN.jpg){width=10%}
 
 
 ___
@@ -54,4 +54,4 @@ ___
 
 
 
-![*Black garlic.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Black garlic_NN.png){width=25%}
+![*Black garlic.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Black garlic_NN.png){width=10%}
