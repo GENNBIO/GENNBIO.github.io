@@ -14,8 +14,8 @@ ___
 
 
 
-![*In vitro plantlets.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods_NN.jpg){width=50%}
-
+![*In vitro plantlets.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage1_NN.png){width=50%}
+    
 
 <br>
 
@@ -32,7 +32,8 @@ ___
 
 
 
-![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium_NN.jpg){width=50%}
+![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Formula_NN.png){width=50%}
+![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium1_NN.jpg){width=50%}
 
 
 <br>
@@ -55,8 +56,10 @@ body {text-align: center}
 </style>
 
 
+![*6-BAP.*](C:\Users\Dell\Desktop\GENNBIO.github.io\6BAP.jpg){width=50%}
 
-![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PGR_NN.jpg){width=50%}
+
+![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\BAP1.jpg){width=50%}
 
 
 <br>

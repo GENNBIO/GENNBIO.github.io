@@ -10,11 +10,11 @@ body {text-align: center}
 | 1. Plant Biotechnology | Quantity | Price |
 |:-|:-|:-|
 | Introduction to in vitro technics  | 1 | 45.00 USD | 
-| Plant culture medium formulation | 1 | 70.00 USD |
+| Plant tissue culture medium formulation | 1 | 70.00 USD |
 | Anther culture | 1 | 70.00 USD |
 | Aclimatization   | 1 | 45.00 |
 <details> 
-<summary> Plant culture medium formulation </summary>
+<summary> Plant tissue culture medium formulation </summary>
 
 
 Sesión 1 (zona wifi): Componentes del medio de cultivo
@@ -73,6 +73,12 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 
 
 </details>
+<br>
+
+
+![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medios_NN.png){width=50%}
+
+
 <br>
 
 
