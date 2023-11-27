@@ -1,5 +1,5 @@
 ---
-title: "**GENNBIO LABORATORY**"
+title: "**PLANT BIOTECHNOLOGY LABORATORY**"
 ---
 ___
 ### **1. Plántulas in vitro**
@@ -85,7 +85,7 @@ body {text-align: center}
 | ADC (0.5%) | 25 mL | 55.00 USD |
 
 
-![*CDA.*](C:\Users\Dell\Desktop\GENNBIO.github.io\CDA.png){width=25%}
+![*C.D.A.*](C:\Users\Dell\Desktop\GENNBIO.github.io\CDA.png){width=25%}
 
 
 
