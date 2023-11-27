@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Plant Biotechnology"
       href: Plant-Biotechnology.html
+    - text: "Molecular Genetics"
+      href: Molcecular-Genetics.html
     - text: "Food & Brewing"
       href: Food---Brewing.html
     - text: "Courses"
@@ -15,10 +17,6 @@ navbar:
       href: RICE.html
     - text: "Facilities"
       href: Facilities.html
-    - text: "Downloads"
-      href: Meta-análisis_NN.pdf
-    - text: "The beginning (history)"
-      href: PBB_IAC_The beginning.mp4
     - text: "Contacts"
       href: Contacts.html
   
