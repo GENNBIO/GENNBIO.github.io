@@ -8,7 +8,7 @@ ___
 <summary> *Principal office.* </summary>
 
 
-![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Chair 1_NN.jpg){width=50%}
+![*GENNBIO (Principal office).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Principal_NN.jpg){width=50%}
 
 
 </details>
@@ -39,7 +39,7 @@ ___
 ![*WiFi zone 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 3_NN.jpg){width=50%}
 
 
-![*WiFi zone 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 2_NN.jpg){width=50%}
+![*WiFi zone 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=50%}
 
 
 </details>

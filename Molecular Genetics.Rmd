@@ -1,3 +1,4 @@
+---
 title: "**MOLECULAR GENETICS LABORATORY**"
 ---
 ___
@@ -9,3 +10,22 @@ ___
 | Transcripts | __ | ask for |
 | Others | __ | ask for |
 
+<style>
+body {text-align: center}
+</style>
+<br>
+
+
+### **2. Experimentos | Investigación**
+<br>
+
+S.A.G.E.S.
+
+
+T.M.M.S.
+
+
+A.B.A.
+
+
+![*Loading...*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=50%}
