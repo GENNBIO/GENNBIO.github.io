@@ -1,11 +1,11 @@
-title: "**GENNBIO LABORATORY**"
+title: "**MOLECULAR GENETICS LABORATORY**"
 ---
 ___
-### **1. Plántulas in vitro**
+### **1. Marcadores moleculares**
 
-| 1. In vitro plantlets| Quantity | Price |
+| 1. Molecular markers| Quantity | Price |
 |:-|:-|:-|
-| Stage 1 | 100 expl. | 15.00 USD |
-| Stage 2 | 100 expl. | 22.00 USD |
-| Stage 3 | 100 expl. | 13.00 USD |
-| Stage 4 | 100 expl. | ask for |
+| SSR | __ | ask for |
+| Transcripts | __ | ask for |
+| Others | __ | ask for |
+
