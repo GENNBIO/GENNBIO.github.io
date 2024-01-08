@@ -17,15 +17,35 @@ body {text-align: center}
 
 
 ### **2. Experimentos | Investigación**
+
+
+S.A.G.E.S. (Last details)
+
+
 <br>
 
-S.A.G.E.S.
+
+T.M.M.S. (Last details)
 
 
-T.M.M.S.
+<br>
 
 
-A.B.A.
+A.B.A. (Molecular biotechnology UPS thesis)
 
 
-![*Loading...*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=50%}
+<br>
+
+
+![*Loading...*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
+
+
+Project integration contact: jmoraless1@ups.edu.ec
+<br>
+Project forecasted budget: 3000 USD
+
+
+<br>
+
+
+C.S.X.A.D.M. (Bioinformática, Estadística) 
