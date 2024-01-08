@@ -39,7 +39,7 @@ ___
 ![*WiFi zone 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 3_NN.jpg){width=50%}
 
 
-![*WiFi zone 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=50%}
+![*WiFi zone 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
 
 
 </details>
@@ -105,6 +105,33 @@ ___
 ___
 
 
+<br>
 
-![*Welcome.*](C:\Users\Dell\Desktop\GENNBIO.github.io\X_NN.gif){width=25%}
 
+
+![*If we don´t play God.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Agro_NN.jpg){width=25%}
+
+
+<br>
+
+
+![*Who*](C:\Users\Dell\Desktop\GENNBIO.github.io\BioTec2_NN.jpg){width=25%}
+
+
+<br>
+
+
+![*will?*](C:\Users\Dell\Desktop\GENNBIO.github.io\AgroPec_NN.jpg){width=25%}
+
+
+<br>
+
+
+![***J.D.W.***](C:\Users\Dell\Desktop\GENNBIO.github.io\GENNBIOX_NN.png){width=25%}
+
+
+
+
+<style>
+body {text-align: center}
+</style>

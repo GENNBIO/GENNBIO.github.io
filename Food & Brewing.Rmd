@@ -9,7 +9,7 @@ body {text-align: center}
 
 ### **1. Cerveza**
 
-![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\40_NN.png){width=50%}
+![*Cold beer 5°C.*](C:\Users\Dell\Desktop\GENNBIO.github.io\40_NN.png){width=25%}
 
 
 Oatmeal stout, weizenbock, irish red, and others. Best offer for 40 bottles. 2.00 USD/bottle premium.  

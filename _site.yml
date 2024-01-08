@@ -13,10 +13,10 @@ navbar:
       href: Food---Brewing.html
     - text: "Courses"
       href: Académico.html
-    - text: "R.I.C.E."
-      href: RICE.html
     - text: "Facilities"
       href: Facilities.html
+    - text: "R.I.C.E."
+      href: RICE.html
     - text: "Contacts"
       href: Contacts.html
   
