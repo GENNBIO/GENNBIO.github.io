@@ -19,13 +19,42 @@ body {text-align: center}
 ### **2. Experimentos | Investigación**
 
 
-S.A.G.E.S. (Last details)
+Secrets of Agarose Gel Electrophoresis System. (Last details)
+
+
+![*X1*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods7_NN.png){width=25%}
+
+
+Objective 1: Completed
+
+
+Objective 2: Completed
+
+
+Objective 3: In process
+
+
+Objective 4: In process
 
 
 <br>
 
 
 T.M.M.S. (Last details)
+
+![*X2*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods4_NN.png){width=25%}
+
+
+Objective 1: Completed
+
+
+Objective 2: In process
+
+
+Objective 3: In process
+
+
+Objective 4: Completed
 
 
 <br>
@@ -34,10 +63,19 @@ T.M.M.S. (Last details)
 A.B.A. (Molecular biotechnology UPS thesis)
 
 
+![*X3*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods3_NN.png){width=25%}
+
+
+Objective 1: Completed
+
+
+Objective 2: In process
+
+
+Objective 3: In process
+
+
 <br>
-
-
-![*Loading...*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
 
 
 Project integration contact: jmoraless1@ups.edu.ec
@@ -49,3 +87,18 @@ Project forecasted budget: 3000 USD
 
 
 C.S.X.A.D.M. (Bioinformática, Estadística) 
+
+
+![*Loading...*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
+
+
+Objective 1: Completed
+
+
+Objective 2: In process
+
+
+Objective 3: In process
+
+
+Objective 4: Completed
