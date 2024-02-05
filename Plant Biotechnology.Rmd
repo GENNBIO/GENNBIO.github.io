@@ -6,10 +6,10 @@ ___
 
 | 1. In vitro plantlets| Quantity | Price |
 |:-|:-|:-|
-| Stage 1 | 100 expl. | 15.00 USD |
-| Stage 2 | 100 expl. | 22.00 USD |
-| Stage 3 | 100 expl. | 13.00 USD |
-| Stage 4 | 100 expl. | ask for |
+| Germination | 100 | 15.00 USD |
+| Proliferation | 100 | 22.00 USD |
+| Rooting | 100 | 13.00 USD |
+| Stage 4 | 100 | ask for |
 
 
 
@@ -24,10 +24,10 @@ ___
 
 | 2. Plant tissue culture medium (10 L.) | Quantity | Price |
 |:-|:-|:-|
-| Basal | 250 mL | 37.00 USD |
-| Proliferation | 250 mL | 40.00 USD |
-| Rooting | 250 mL | 40.00 USD |
-| Anther culture | 250 mL | 45.00 USD |
+| Basal | 250 mL | 40.00 USD |
+| Proliferation | 250 mL | 43.00 USD |
+| Rooting | 250 mL | 43.00 USD |
+| Anther culture | 250 mL | 46.00 USD |
 
 
 
