@@ -21,22 +21,13 @@ ___
 ![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\LAB_NN23.png){width=50%}
 
 
-![*Laboratory.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Lab2_NN.jpg){width=50%}
-
-
-![*In vitro technics.*](C:\Users\Dell\Desktop\GENNBIO.github.io\In vitro technics_NN.jpg){width=50%}
-
-
-![*Ex vitro.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Ex vitro_NN.jpg){width=50%}
-
-
 </details>
 
 
 <details> 
 <summary> *Wifi zones.* </summary>
 
-![*WiFi zone 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wifi zone 3_NN.jpg){width=50%}
+![*WiFi zone 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Wfi2_NN.jpg){width=50%}
 
 
 ![*WiFi zone 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
@@ -52,7 +43,7 @@ ___
 ![*Stage 3.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage32_NN.png){width=50%}
 
 
-![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 1_NN.jpg){width=50%}
+![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse242_NN.jpg){width=50%}
 
 
 ![*Greenhouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
@@ -71,7 +62,9 @@ ___
 <summary> *Warehouse.* </summary>
 
 
-![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B2_NN.jpg){width=50%}
+![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Warehouse_NN1.jpg){width=50%}
+
+![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Warehouse_NN2.jpg){width=50%}
 
 
 </details>
@@ -81,11 +74,8 @@ ___
 <summary> *Research, Development & Innovation (RD+i).* </summary>
 
 
-![*I SFA-UTC.*](C:\Users\Dell\Desktop\GENNBIO.github.io\ISFA-UTC_NN.jpg){width=50%}
+![*Loading...*](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
 
-
-
-![*Agri-business meetings.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Meetings 4_NN.jpg){width=50%}
 
 
 </details>
