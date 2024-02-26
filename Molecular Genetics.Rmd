@@ -19,48 +19,28 @@ body {text-align: center}
 ### **2. Experimentos | Investigación**
 
 
-Secrets of Agarose Gel Electrophoresis System. (Last details)
+Secrets of Agarose Gel Electrophoresis System.
 
 
-![*X1*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods7_NN.png){width=25%}
-
-
-Objective 1: Completed
-
-
-Objective 2: Completed
-
-
-Objective 3: In process
-
-
-Objective 4: In process
+![*S.A.G.E.S.*](C:\Users\Dell\Desktop\GENNBIO.github.io\SAGES1_NN.jpg){width=25%}
 
 
 <br>
 
 
-T.M.M.S. (Last details)
-
-![*X2*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods4_NN.png){width=25%}
-
-
-Objective 1: Completed
-
-
-Objective 2: In process
-
-
-Objective 3: In process
-
-
-Objective 4: Completed
+![*S.A.G.E.S.2.0.*](C:\Users\Dell\Desktop\GENNBIO.github.io\SAGES2.0_NN.jpg){width=25%}
 
 
 <br>
 
 
-A.B.A. (Molecular biotechnology UPS thesis)
+![*S.A.G.E.S.3.0.*](C:\Users\Dell\Desktop\GENNBIO.github.io\SAGES3.0_NN.jpg){width=25%}
+
+
+<br>
+
+
+Artificial Building of Amplicons. (Molecular biotechnology UPS thesis)
 
 
 ![*X3*](C:\Users\Dell\Desktop\GENNBIO.github.io\Goods3_NN.png){width=25%}
