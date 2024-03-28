@@ -17,10 +17,11 @@ navbar:
       href: Facilities.html
     - text: "R.I.C.E."
       href: RICE.html
+    - text: "New !!!"
+      href: New-!!!.html
     - text: "Contacts"
       href: Contacts.html
-  
-
+    
 output:
   html_document:
     theme: flatly
