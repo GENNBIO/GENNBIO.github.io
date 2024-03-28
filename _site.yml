@@ -21,9 +21,7 @@ navbar:
       href: New-!!!.html
     - text: "Contacts"
       href: Contacts.html
-    - text: "CIREDU"
-      href: CIREDU. Morales..pdf
-      
+    
 output:
   html_document:
     theme: flatly
