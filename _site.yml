@@ -19,9 +19,7 @@ navbar:
       href: RICE.html
     - text: "Contacts"
       href: Contacts.html
-    - text: "X CIREDU"
-      href: CIREDU. Morales..pdf
-      
+    
 output:
   html_document:
     theme: flatly
