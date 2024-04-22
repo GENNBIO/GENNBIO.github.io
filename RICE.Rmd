@@ -37,8 +37,7 @@ Enfoque ancestral, investigativo, y vanguardista en el mejoramiento genético de
 - Morales, J. & Andrade, P. (2023) Biotechnological plant breeding applied to purple blackberries. Rev. Bionatura 8.1, 1-7. [-->](https://www.revistabionatura.com/2023.08.01.7.html)
 
 
-- Morales, J., Chiluisa-Utreras, V. & Andrade, P. (2023-2024) Improvement of sweet pepino (Solanum muricatum Aiton) crop by agri-biotechnological methods in Cotopaxi-Ecuador (Accepted X CIREDU 2023). [-->](https://gennbio.github.io/Meta-an%C3%A1lisis_NN.pdf) 
-
+- Morales, J., Chiluisa-Utreras, V. & Andrade, P. (2023-2024) Improvement of sweet pepino (Solanum muricatum Aiton) crop by agri-biotechnological methods in Cotopaxi-Ecuador. [-->]
 ___
 <br>
 
@@ -93,6 +92,8 @@ Project forecasted budget: 1500 USD
 
 ![*Tomate in vitro*](C:\Users\Dell\Desktop\GENNBIO.github.io\Tmt2_NN.png){width=25%}
 
+
+![*3Ns*](C:\Users\Dell\Desktop\GENNBIO.github.io\Tmt3_NN.png){width=25%}
 
 ___
 <br>
