@@ -19,7 +19,9 @@ navbar:
       href: RICE.html
     - text: "Contacts"
       href: Contacts.html
-    
+    - text: "New !!!"
+      href: New.html
+      
 output:
   html_document:
     theme: flatly
