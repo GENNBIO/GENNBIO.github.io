@@ -19,7 +19,9 @@ navbar:
       href: RICE.html
     - text: "Contacts"
       href: Contacts.html
-   
+    - text: "I.G.X. MP4"
+      href: Xtreme_NN.mp4
+      
 output:
   html_document:
     theme: flatly
