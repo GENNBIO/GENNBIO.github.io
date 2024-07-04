@@ -10,9 +10,9 @@ body {text-align: center}
 | 1. Plant Biotechnology | Quantity | Price |
 |:-|:-|:-|
 | Introduction to in vitro technics  | 1 | 45.00 USD | 
-| Plant tissue culture medium formulation | 1 | 70.00 USD |
-| Anther culture | 1 | 70.00 USD |
-| Aclimatization   | 1 | 45.00 |
+| Plant tissue culture medium formulation | 1 | 75.00 USD |
+| Anther culture | 1 | 75.00 USD |
+| Aclimatization   | 1 | 50.00 |
 <details> 
 <summary> Plant tissue culture medium formulation </summary>
 
@@ -132,7 +132,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 | Proyecciones simples  | 1 | 30.00 USD |
 | Proyecciones múltiples | 1 | 45.00 USD |
 | Valoración y riesgo | 1 | 45.00 USD |
-| Modelos estadísticos | 1 | 70.00 USD |
+| Modelos estadísticos | 1 | 75.00 USD |
 <br>
 
 
@@ -142,8 +142,8 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 |:-|:-|:-|
 | Genomics repositories  | 1 | 30.00 USD |
 | Sequence homology | 1 | 45.00 USD |
-| Web sites | 1 | 70.00 USD |
-| Synbio | 1 | 70.00 USD |
+| Web sites | 1 | 80.00 USD |
+| Synbio | 1 | 80.00 USD |
 | Genetic transformation | 1 | 100.00 USD |
 <br>
 
