@@ -2,11 +2,10 @@
 title: "**GENNBIO**"
 ---
 
-### Your success is our priority.
+
+### Your success is our priority ![](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=7%}
 
 ___
-![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\PCM_NN.jpg)
-
 
 
 <style>
@@ -17,6 +16,8 @@ GENNBIO is an Ecuadorian company created to generate solutions that contribute t
 
 ___
 
+
+![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\PCM_NN.jpg)
 
 
 ***All rights reserved 2024.***
