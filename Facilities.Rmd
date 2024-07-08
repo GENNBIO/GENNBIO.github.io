@@ -99,9 +99,6 @@ ___
 
 
 
-![*---*](C:\Users\Dell\Desktop\GENNBIO.github.io\360_NN.jpg){width=25%}
-
-
 <br>
 
 
@@ -123,7 +120,7 @@ ___
 <br>
 
 
-![***J.D.W.***](C:\Users\Dell\Desktop\GENNBIO.github.io\GENNBIOX_NN.png){width=25%}
+![***J.D.W.***](C:\Users\Dell\Desktop\GENNBIO.github.io\360_NN.jpg){width=25%}(C:\Users\Dell\Desktop\GENNBIO.github.io\GENNBIOX_NN.png){width=25%}
 
 
 <br>
