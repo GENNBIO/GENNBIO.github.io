@@ -19,9 +19,7 @@ navbar:
       href: RICE.html
     - text: "Contacts"
       href: Contacts.html
-    - text: "u_NN"
-      href: u_NN.mp4
-      
+    
 output:
   html_document:
     theme: cosmo
