@@ -3,9 +3,10 @@ title: "**GENNBIO**"
 ---
 
 
-### Your success is our priority ![](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=7%}
+### Your success is our priority 
 
-___
+
+![](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=7%}
 
 
 <style>
