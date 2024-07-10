@@ -27,22 +27,22 @@ body {text-align: center}
 ### **2. Experimentos | Investigación**
 
 
-Secrets of Agarose Gel Electrophoresis System (S.A.G.E.S)
+Secrets of Agarose Gel Electrophoresis System (S.A.G.E.S) (Successfully completed)
 
 
-A Thermocycler Machine Manufacture Simulation (T.M.M.S)
+A Thermocycler Machine Manufacture Simulation (T.M.M.S) (Successfully completed)
 
 
 Artificial Building of Amplicons (A.B.A)
 
 
-Objective 1: Completed
+Objective 1: 95% Completed
 
 
-Objective 2: 30% completed
+Objective 2: 60% completed
 
 
-Objective 3: 50% completed
+Objective 3: 80% completed
 
 
 <br>
