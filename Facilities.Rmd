@@ -132,7 +132,7 @@ I.G.X. MP4 [Click aquí ¡¡¡](https://gennbio.github.io/Xtreme2_NN.mp4)
 <br>
 
 
-I.G.X. MP4 [Click aquí ¡¡¡](https://gennbio.github.io/I.G.X.Demos.mp4)
+I.G.X. MP4 [Click aquí ¡¡¡](https://gennbio.github.io/I.G.X. Demos.mp4)
 
 <style>
 body {text-align: center}
