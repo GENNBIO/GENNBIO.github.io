@@ -23,7 +23,7 @@ navbar:
 
 output:
   html_document:
-    theme: sandstone
+    theme: cosmo
     highlight: textmate
     toc: true
     toc_float: true

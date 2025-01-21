@@ -75,15 +75,27 @@ ___
 ### **Tomate**
 
 
-Molecular biotechnology thesis
+In vitro techniques in tomato (S. lycopersicum), potato (S. tuberosum) and sweet pepino (S. × muricatum) anthers
 
+
+Morales, J.1, Calderón, D.2, Chiluisa-Utreras, V.3, Dávalos, P.4
+
+
+1GENNBIO (Breeding_Genetics_Biotechnology), Latacunga, Ecuador.
+2Master in Molecular Biotechnology, Universidad Politécnica Salesiana, Quito, Ecuador.
+3BIOARN Research Group, Universidad Politécnica Salesiana, Quito, Ecuador.
+4Biotechnology Engineering, Universidad Técnica de Ambato, Ambato, Ecuador.
+
+
+Corresponding author: jmoraless1@ups.edu.ec; juanm@gennbioecuador.com
+
+
+Abstract
+The in vitro propagation process of tomato (S. lycopersicum) was optimized; potato (S. tuberosum) was micropropagated in the proliferation phase; and anthers of a sweet pepino hybrid (S. × muricatum) were grown to obtain callus. In the introductory phase of tomato, a completely randomized design (CRD) with variety × disinfection × gentamicin interaction was used, and later a CRD with variety × rooter interaction; in the proliferation phase of potato, a CRD with disinfection × gentamicin interaction was used, and it was optimized; and in anther culture, culture media for callus-proliferation was used. Tomato floradade (V1) and montego (V2) varieties, tuber sprouts (BT) and nodal segments (SN) of Chaucha (CH), Chola (CL), Leona Blanca (LB) and Leoan Negra (LN) potatoes, and sweet pepino (NG) anthers were used; analysis of variance (ANOVA) was performed on quantitative traits. Germination percentage for tomato 
 
 <br>
 Project integration contact: breeding@gennbioecuador.com
 
-
-<br>
-Project forecasted budget: 1500 USD
 
 
 <br>
