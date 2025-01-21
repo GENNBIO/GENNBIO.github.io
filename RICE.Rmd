@@ -75,15 +75,21 @@ ___
 ### **Tomate**
 
 
-In vitro techniques in tomato (S. lycopersicum), potato (S. tuberosum) and sweet pepino (S. × muricatum) anthers
+**In vitro techniques in tomato (S. lycopersicum), potato (S. tuberosum) and sweet pepino (S. × muricatum) anthers**
 
 
 Morales, J.1, Calderón, D.2, Chiluisa-Utreras, V.3, Dávalos, P.4
 
 
 1GENNBIO (Breeding_Genetics_Biotechnology), Latacunga, Ecuador.
+
+
 2Master in Molecular Biotechnology, Universidad Politécnica Salesiana, Quito, Ecuador.
+
+
 3BIOARN Research Group, Universidad Politécnica Salesiana, Quito, Ecuador.
+
+
 4Biotechnology Engineering, Universidad Técnica de Ambato, Ambato, Ecuador.
 
 
@@ -92,7 +98,12 @@ Corresponding author: jmoraless1@ups.edu.ec; juanm@gennbioecuador.com
 
 Abstract
 
-The in vitro propagation process of tomato (S. lycopersicum) was optimized; potato (S. tuberosum) was micropropagated in the proliferation phase; and anthers of a sweet pepino hybrid (S. × muricatum) were grown to obtain callus. In the introductory phase of tomato, a completely randomized design (CRD) with variety × disinfection × gentamicin interaction was used, and later a CRD with variety × rooter interaction; in the proliferation phase of potato, a CRD with disinfection × gentamicin interaction was used, and it was optimized; and in anther culture, culture media for callus-proliferation was used. Tomato floradade (V1) and montego (V2) varieties, tuber sprouts (BT) and nodal segments (SN) of Chaucha (CH), Chola (CL), Leona Blanca (LB) and Leoan Negra (LN) potatoes, and sweet pepino (NG) anthers were used; analysis of variance (ANOVA) was performed on quantitative traits. Germination percentage for tomato 
+
+The in vitro propagation process of tomato (S. lycopersicum) was optimized; potato (S. tuberosum) was micropropagated in the proliferation phase; and anthers of a sweet pepino hybrid (S. × muricatum) were grown to obtain callus. In the introductory phase of tomato, a completely randomized design (CRD) with variety × disinfection × gentamicin interaction was used, and later a CRD with variety × rooter interaction; in the proliferation phase of potato, a CRD with disinfection × gentamicin interaction was used, and it was optimized; and in anther culture, culture media for callus-proliferation was used. Tomato floradade (V1) and montego (V2) varieties, tuber sprouts (BT) and nodal segments (SN) of Chaucha (CH), Chola (CL), Leona Blanca (LB) and Leoan Negra (LN) potatoes, and sweet pepino (NG) anthers were used; analysis of variance (ANOVA) was performed on quantitative traits. Germination percentage for tomato in V2-TD1-50ppm = 96.67 %, followed by V2-TD1-75ppm = 86.67 %, V1-TD1-68.8ppm = 86.67 %, and V2-TD1-68.8ppm = 80.00 %; explant length (cm ± E.E.) was significantly different in V2-TD1-68.8ppm = 12.63 cm ± 0.49 (E), followed by V2-TD1-50ppm = 9.27 cm ± 0.48 (D), and V2-TD1-75ppm = 8.21 cm ± 0.49 (CD), mainly; and in proliferation phase the seedling length was different in V1 = 12.64 cm ± 0.68 (A) and V2 = 17.17 cm ± 0.69 (B). Optimizing potato BT proliferation (contamination 0-6.67 % and survival 93.33-100 %), leaf number (mean ± S.E.) was different in LB-FFBB-75ppm = 4.00 ± 0.58, and LN-FFBB-75ppm = 1.50 ± 0.27, and explant length was similar with 1.79, and 1.96 cm, respectively. Callus was obtained via androgenesis on M1.2. medium (0.01 ppm KN, and 0.1 ppm KN with auxin and cytokinin). 
+
+
+**Key words**: Solanum; agar-agar; clone; callogenesis; microspore.
+
 
 <br>
 Project integration contact: breeding@gennbioecuador.com
