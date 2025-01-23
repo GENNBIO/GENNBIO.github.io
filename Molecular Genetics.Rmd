@@ -33,7 +33,7 @@ body {text-align: justify}
 </style> 
 
 
-**"Construcción artificial de genes candidatos para especies solanáceas y sus aplicaciones moleculares derivadas"**
+**Construcción artificial de genes candidatos para especies solanáceas y sus aplicaciones moleculares derivadas**
 
 
 Resumen
