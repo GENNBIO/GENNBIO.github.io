@@ -123,6 +123,7 @@ ___
 ![***J.D.W.***](C:\Users\Dell\Desktop\GENNBIO.github.io\360_NN.jpg){width=25%}
 
 
+<<<<<<< HEAD
 <br>
 
 
@@ -141,6 +142,8 @@ I.G.X. MP4 [Click aquí ¡¡¡](https://gennbio.github.io/Xtreme2_NN.mp4)
 
 I.G.X. MP4 [Click aquí ¡¡¡](https://gennbio.github.io/I.G.X. Demos.mp4)
 
+=======
+>>>>>>> 567de5a7c4fb08bc8c812ecfa7a42d9bcebc085b
 <style>
 body {text-align: center}
 </style>
