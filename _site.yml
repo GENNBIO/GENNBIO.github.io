@@ -19,8 +19,7 @@ navbar:
       href: RICE.html
     - text: "Contacts"
       href: Contacts.html
-    - text: "Ingniería Genética Extrema"
-      href: GENNBIO_X.mp4
+   
 
 output:
   html_document:
