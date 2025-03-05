@@ -119,7 +119,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 <br>
 
 
-![*Diseño experimental.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Experimental_NN.png){width=25%}
+![*Diseño experimental.*](C:\Users\TEMP.DESKTOP-33NIQOH\Desktop\GENNBIO.github.io\Experimental_NN.png){width=25%}
 
 
 <br>
@@ -148,7 +148,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 <br>
 
 
-![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
+![*Analysis.*](C:\Users\TEMP.DESKTOP-33NIQOH\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
 
 
 
