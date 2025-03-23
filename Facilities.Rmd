@@ -43,10 +43,7 @@ ___
 ![*Stage 3.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Stage32_NN.png){width=50%}
 
 
-![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse242_NN.jpg){width=50%}
-
-
-![*Greenhouse 2.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
+![*Greenhouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B2.jpg){width=50%}
 
 
 ![*Triple hybrid.*](C:\Users\Dell\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
@@ -64,7 +61,7 @@ ___
 
 ![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Warehouse_NN1.jpg){width=50%}
 
-![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Warehouse_NN2.jpg){width=50%}
+![*Warehouse 1.*](C:\Users\Dell\Desktop\GENNBIO.github.io\B1.jpg){width=50%}
 
 
 </details>
@@ -114,13 +111,19 @@ ___
 <br>
 
 
-![*will?*](C:\Users\Dell\Desktop\GENNBIO.github.io\AgroPec_NN.jpg){width=25%}
+![*will?*](C:\Users\Dell\Desktop\GENNBIO.github.io\BIO251.jpg){width=25%}
 
 
 <br>
 
 
 ![***J.D.W.***](C:\Users\Dell\Desktop\GENNBIO.github.io\360_NN.jpg){width=25%}
+
+
+<br>
+
+
+![*2025*](C:\Users\Dell\Desktop\GENNBIO.github.io\BIO252.jpg){width=25%}
 
 
 <style>
