@@ -20,5 +20,6 @@ ___
 ![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\3NNNs.gif)
 
 
-***Built on Github by 3Ns***
+
+***Built on R hosted in Github by 3Ns***
 ***Latacunga | Quito, Ecuador, 2025***
