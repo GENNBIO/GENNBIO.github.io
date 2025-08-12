@@ -17,8 +17,8 @@ GENNBIO is an Ecuadorian company created to generate solutions that contribute t
 ___
 
 
-![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\PCM_NN.jpg)
+![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\3NNNs.gif)
 
 
-***All rights reserved 2025.***
+***Build on Github by 3Ns, 2025.***
 ***Latacunga | Quito, Ecuador.***
