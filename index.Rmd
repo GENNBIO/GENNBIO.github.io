@@ -22,5 +22,5 @@ ___
 
 <<<<<<< HEAD
 ***Built on Github by 3Ns***
-***Latacunga | Quito, Ecuador 2025***
+***Latacunga | Quito, Ecuador, 2025***
 =======
