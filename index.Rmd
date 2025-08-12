@@ -6,7 +6,7 @@ title: "**GENNBIO**"
 ### Your success is our priority 
 
 
-![](C:\Users\Dell\Desktop\GENNBIO.github.io\Loading_NN.gif){width=7%}
+![](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Loading_NN.gif){width=7%}
 
 
 <style>
@@ -17,9 +17,14 @@ GENNBIO is an Ecuadorian company created to generate solutions that contribute t
 ___
 
 
-![**3Ns.**](C:\Users\Dell\Desktop\GENNBIO.github.io\3NNNs.gif)
+![**3Ns.**](C:\Users\Usuario1\Desktop\GENNBIO.github.io\3NNNs.gif)
 
 
 
 ***Built on R hosted in Github by 3Ns***
-***Latacunga | Quito, Ecuador, 2025***
+
+
+<br>
+
+
+***Latacunga, Quito (EC) 2025***
