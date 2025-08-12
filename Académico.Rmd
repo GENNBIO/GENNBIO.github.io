@@ -76,7 +76,7 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 <br>
 
 
-![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medios_NN.png){width=25%}
+![*Plant tissue culture medium.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Medios_NN.png){width=25%}
 
 
 <br>
@@ -119,7 +119,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 <br>
 
 
-![*Diseño experimental.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Experimental_NN.png){width=25%}
+![*Diseño experimental.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Experimental_NN.png){width=25%}
 
 
 <br>
@@ -148,7 +148,7 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 <br>
 
 
-![*Analysis.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
+![*Analysis.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Gel_NN.jpg){width=10%}
 
 
 

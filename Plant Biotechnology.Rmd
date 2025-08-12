@@ -14,7 +14,7 @@ ___
 
 
 
-![*In vitro plantlets.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Genotipo_NN.png){width=25%}
+![*In vitro plantlets.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Genotipo_NN.png){width=25%}
     
 
 <br>
@@ -32,10 +32,10 @@ ___
 
 
 
-![*250 mL (10 L).*](C:\Users\Dell\Desktop\GENNBIO.github.io\Formula_NN.png){width=25%}
+![*250 mL (10 L).*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Formula_NN.png){width=25%}
 
 
-![*Plant tissue culture medium.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Medium1_NN.jpg){width=50%}
+![*Plant tissue culture medium.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Medium1_NN.jpg){width=50%}
 
 
 <br>
@@ -58,19 +58,19 @@ body {text-align: center}
 </style>
 
 
-![*6-BAP.*](C:\Users\Dell\Desktop\GENNBIO.github.io\6BAP.jpg){width=25%}
+![*6-BAP.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\6BAP.jpg){width=25%}
 
 
 <br>
 
 
-![*GIB.*](C:\Users\Dell\Desktop\GENNBIO.github.io\GIB.jpg){width=25%}
+![*GIB.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\GIB.jpg){width=25%}
 
 
 <br>
 
 
-![*Plant growth regulators.*](C:\Users\Dell\Desktop\GENNBIO.github.io\BAP1.jpg){width=50%}
+![*Plant growth regulators.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\BAP1.jpg){width=50%}
 
 
 <br>
@@ -85,7 +85,7 @@ body {text-align: center}
 | ADC (0.5%) | 25 mL | 55.00 USD |
 
 
-![*C.D.A.*](C:\Users\Dell\Desktop\GENNBIO.github.io\CDA.png){width=25%}
+![*C.D.A.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\CDA.png){width=25%}
 
 
 

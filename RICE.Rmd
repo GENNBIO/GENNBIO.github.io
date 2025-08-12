@@ -90,16 +90,16 @@ The in vitro propagation process of tomato (S. lycopersicum) was optimized; pota
 <br>
 
 
-![*Tomate in vitro*](C:\Users\Dell\Desktop\GENNBIO.github.io\Tmt1_NN.png){width=20%}
+![*Tomate in vitro*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Tmt1_NN.png){width=20%}
 
 
 <br>
 
 
-![*Tomate in vitro*](C:\Users\Dell\Desktop\GENNBIO.github.io\Tmt2_NN.png){width=25%}
+![*Tomate in vitro*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Tmt2_NN.png){width=25%}
 
 
-![*3Ns*](C:\Users\Dell\Desktop\GENNBIO.github.io\Tmt3_NN.png){width=25%}
+![*3Ns*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Tmt3_NN.png){width=25%}
 
 
 ___
@@ -114,13 +114,13 @@ ___
 - Pacheco, E. & Morales, J. (2023) In vitro multiplication of hemp (Cannabis sp.) in Cotopaxi-Ecuador. London Journal of Research in Science: Natural and Formal 23.7:1-9.
 
 
-![*Cannabis sp.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Cannabis_NN.jpg){width=10%}
+![*Cannabis sp.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Cannabis_NN.jpg){width=10%}
 
 
 
-![*Redes de libertad.*](C:\Users\Dell\Desktop\GENNBIO.github.io\Redes_NN.jpg){width=10%}
+![*Redes de libertad.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Redes_NN.jpg){width=10%}
 
 
 
-![*Cannabis sp.*](C:\Users\Dell\Desktop\GENNBIO.github.io\PV_NN.jpg){width=10%}
+![*Cannabis sp.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\PV_NN.jpg){width=10%}
 
