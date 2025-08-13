@@ -46,7 +46,7 @@ ___
 ![*Greenhouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Greenhouse242_NN.jpg){width=50%}
 
 
-![*Greenhouse 2.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Greenhouse 2_NN.jpg){width=50%}
+![*Greenhouse 2.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Greenhouse.jpg){width=50%}
 
 
 ![*Triple hybrid.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\TH1_NN.jpg){width=50%}
@@ -64,7 +64,7 @@ ___
 
 ![*Warehouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Warehouse_NN1.jpg){width=50%}
 
-![*Warehouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Warehouse_NN2.jpg){width=50%}
+![*Warehouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Warehouse.jpg){width=50%}
 
 
 </details>
