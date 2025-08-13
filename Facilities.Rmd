@@ -64,7 +64,7 @@ ___
 
 ![*Warehouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Warehouse_NN1.jpg){width=50%}
 
-![*Warehouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Warehouse.jpg){width=50%}
+![*Warehouse 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Warehouse2025.jpg){width=50%}
 
 
 </details>
@@ -72,9 +72,6 @@ ___
 
 <details> 
 <summary> *Research, Development & Innovation (RD+i).* </summary>
-
-
-![*Loading...*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
 
 
 
@@ -93,10 +90,6 @@ ___
 
 </details>
 ___
-
-
-<br>
-
 
 
 <br>
