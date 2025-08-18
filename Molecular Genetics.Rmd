@@ -33,28 +33,4 @@ body {text-align: justify}
 </style> 
 
 
-**Construcción artificial de genes candidatos para especies solanáceas y sus aplicaciones moleculares derivadas**
-
-
-Resumen
-
-
-La presente investigación se centra en la construcción de genes candidatos para el mejoramiento de precisión de la calidad del fruto/tubérculo en solanáceas. Este estudio tiene como objetivo describir la variación morfológica-molecular en secuencias del gen gliceraldehído-fosfato-deshidrogenasa (GAPDH); identificar la presencia génica de GAPDH en un híbrido de pepino dulce (Solanum muricatum Aiton); y construir una base de datos moleculares para el análisis en línea. Se utilizó oligonucleótidos gancho (x-mer), descriptores morfológico-moleculares; y los softwares R, Github, CAP, e Infostat. Se aisló ADN (A260/A280 = 1.88 y A260/A230 = 1.83) para la identificación del gen GAPDH mediante reacción en cadena de la polimerasa (PCR) semicuantitativa. La presencia de GAPDH se analizó mediante electroforesis en gel de agarosa.
-La correlación simple es alta entre número de pares de bases y presencia/ausencia (0.78), y es baja entre número de pares de bases e intensidad (0.30); mientras que, la correlación es muy alta entre intensidad y presencia/ausencia (0.80). La correlación cofenética = 0.993 del análisis de conglomerados (AC) demostró una muy buena similitud para secuencias del núcleo 55 y 86 pb (Mean Character Difference = 0.24); y secuencias > 120 pb, o 0 pb. El primer componente principal (CP1) explica cualitativamente el 75.85 % de la variación total con valor-eigen > 1; el CP1 se correlaciona con presencia/ausencia (-0.66), número de pares de bases (-0.53), e intensidad (-0.54) para valores absolutos ≥ 0.15, los cuales contribuyen más a la variabilidad. La presencia para expresión del gen GAPDH se identificó en S. x muricatum. El valor medio de intensidad de bandas exploró el potencial método para la semi-cuantificación de genes candidatos. Estos resultados demuestran que la construcción de genes, para su posterior transferencia en plantas aumentará el valor nutricional del fruto/tubérculo en solanáceas. Base de datos online: gennbio.github.io.
-
-
-<br>
-
-
-Project integration contact: breeding@gennbioecuador.com
-<br>
- 
-
-| Descripción | Costo |
-|:-|:-|
-| Trabajo de titulación pregrado  | 400 USD |
-| Trabajo de titulación posgrado | 1000 USD |
-| Co-autoría artículo científico | 125 USD |
-| Prácticas pre-profesionales | ask for |
-| Aplicaciones posteriores |  ask for | 
 
