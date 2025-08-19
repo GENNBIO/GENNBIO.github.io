@@ -10,8 +10,6 @@ title: "**CALLS (Convocatorias)**"
 
 ___
 <br>
-
-
 ### **Biotecnología Vegetal**
 
 **- CONVOCATORIA: Trabajo de Titulación**
@@ -45,6 +43,9 @@ ___
 -	Incluye asesoría en el texto del trabajo de titulación, y/o artículo científico 
 
 
+<br>
+
+
 ### **Ingeniería Genética Extrema (I.G.X.)**
 **- CONVOCATORIA: Trabajo de Titulación**
 
@@ -75,6 +76,10 @@ En la presente investigación se desarrolló un protocolo de construcción de ge
 
 
 -	Incluye asesoría en el texto del trabajo de titulación, y/o artículo científico 
+
+
+<br>
+
 
 ### **Bioproductos**
 
