@@ -7,20 +7,19 @@ ___
 
 ### **Biotecnología Vegetal**
 
-- CONVOCATORIA: Trabajo de Titulación
+**- CONVOCATORIA: Trabajo de Titulación**
 
 
-Diferenciación de medios de cultivo para enraizamiento in vitro de segmentos nodales de Solanum x muricatum F1, y Capsicum spp. 
-Resumen
+**Diferenciación de medios de cultivo para enraizamiento in vitro de segmentos nodales de Solanum x muricatum F1, y Capsicum spp.** 
 
 
-Palabras clave: 
+**Resumen**
 
 
-Multiplicación; clon; micro-esqueje; autopolinización; autoincompatibilidad
+**Palabras clave:** Multiplicación; clon; micro-esqueje; autopolinización; autoincompatibilidad
 
 
-Aprenderás a hacer/usar:
+**Aprenderás a hacer/usar:**
 
 
 -	Análisis y diseño de experimentos usando Minitab, R, e Infostat
@@ -30,7 +29,7 @@ Aprenderás a hacer/usar:
 -	Fungicidas o fumigantes, bacteriostáticos y bactericidas
 
 
-Costo: 
+**Costo:** 
 
 
 -	Pregrado 400 USD, posgrado 850 USD, coautoría artículo científico Q3-Q4 (125 USD), y prácticas preprofesionales (ask for)
@@ -40,17 +39,19 @@ Costo:
 
 
 ### **Ingeniería Genética Extrema (I.G.X.)**
+**- CONVOCATORIA: Trabajo de Titulación**
 
-- Construcción artificial de genes candidatos para especies solanáceas, y aplicaciones moleculares posteriores
+
+**- Construcción artificial de genes candidatos para especies solanáceas, y aplicaciones moleculares posteriores**
 
 
-Resumen
+**Resumen**
 
 
 En la presente investigación se desarrolló un protocolo de construcción de genes candidatos para el futuro mejoramiento de la calidad del fruto/tubérculo en solanáceas. Los objetivos fueron: 1) describir la variación morfológica-molecular en constructos de diferente tamaño del gen gliceraldehído-fosfato-deshidrogenasa (GAPDH) mediante electroforesis; 2) identificar el gen GAPDH en un híbrido de pepino dulce (Solanum x muricatum) mediante reacción en cadena de la polimerasa (PCR); y 3) purificar ácidos nucleicos en gel de agarosa para el clonamiento de constructos génicos. Se utilizó oligonucleótidos gancho (x-mer), descriptores morfológico-moleculares, y software estadístico CAP, e Infostat v2016I. Se aisló ADN de S. x muricatum (A260/A280 = 1.88 y A260/A230 = 1.83) para la identificación del gen GAPDH mediante PCR semicuantitativa, cuya presencia se analizó mediante electroforesis en gel de agarosa. La correlación simple fue alta entre los descriptores número de pares de bases y presencia/ausencia (0.78), y fue baja entre número de pares de bases e intensidad (0.30); mientras que, la correlación fue muy alta entre intensidad y presencia/ausencia (0.80). La correlación cofenética = 0.993 del análisis de conglomerados (AC) demostró una muy buena similitud para secuencias del núcleo formado entre __ pb y __ pb (Mean Character Difference = 0.24), ante las unidades taxonómicas operacionales (UTOs) > 1__ pb, y _ pb. El primer componente principal (CP1) explica cualitativamente el 75.85 % de la variación total con valor-eigen > 1; el CP1 se correlaciona con presencia/ausencia (-0.66), número de pares de bases (-0.53), e intensidad (-0.54) para valores absolutos ≥ 0.15, los cuales contribuyen más a la variabilidad. Finalmente, se purificó ADN amplificado, en gel de agarosa, para el clonamiento de los constructos génicos. Estos resultados demuestran la diferenciación morfológico-molecular de los constructos génicos obtenidos, y su potencial utilidad en transformación genética de plantas para la mejora del valor nutricional del fruto/tubérculo en solanáceas.
 
 
-Aprenderás a hacer/usar:
+**Aprenderás a hacer/usar:**
 
 
 -	Análisis morfológico-molecular de constructos génicos 
@@ -60,7 +61,7 @@ Aprenderás a hacer/usar:
 -	Aplicaciones moleculares
 
 
-Costo: 
+**Costo:** 
 
 
 -	Pregrado 400 USD, posgrado 1000 USD, coautoría artículo científico Q2-Q4 (125 USD), y prácticas preprofesionales (ask for)
@@ -68,24 +69,21 @@ Costo:
 
 -	Incluye asesoría en el texto del trabajo de titulación, y/o artículo científico 
 
-### **Biotecnología Vegetal y Bioproductos**
+### **Bioproductos**
 
-- CONVOCATORIA: Trabajo de Titulación
-
-
-Enraizamiento in vitro de Solanum x muricatum y Capsicum spp, y elaboración de goma de mascar con los frutos de pepino dulce 
+**- CONVOCATORIA: Trabajo de Titulación**
 
 
-Resumen
+**Enraizamiento in vitro de Solanum x muricatum y Capsicum spp, y elaboración de goma de mascar con los frutos de pepino dulce** 
 
 
-Palabras clave: 
+**Resumen**
 
 
-Clon; micro-esqueje; autopolinización; autoincompatibilidad; dinamómetro; chicle
+**Palabras clave:** Clon; micro-esqueje; autopolinización; autoincompatibilidad; dinamómetro; chicle
 
 
-Aprenderás a hacer/usar:
+**Aprenderás a hacer/usar:**
 
 
 -	Análisis y diseño de experimentos usando Minitab, R, e Infostat
@@ -96,7 +94,7 @@ Aprenderás a hacer/usar:
 -	Bioproductos con valor agregado
 
 
-Costo: 
+**Costo:** 
 -	Pregrado 450 USD, posgrado 900 USD, coautoría artículo científico Q2-Q4 (125 USD), y prácticas preprofesionales (ask for)
 
 
