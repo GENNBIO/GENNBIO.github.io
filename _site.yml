@@ -21,9 +21,7 @@ navbar:
       href: Contacts.html
     - text: "Calls"
       href: Calls.html
-    - text: "Constructos"
-      href: Constructos_IGX_signed.pdf
-
+   
 output:
   html_document:
     theme: cosmo
