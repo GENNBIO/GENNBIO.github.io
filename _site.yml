@@ -21,6 +21,8 @@ navbar:
       href: Contacts.html
     - text: "Calls"
       href: Calls.html
+    - text: "Constructos"
+      href: Constructos IGX.pdf
 
 output:
   html_document:

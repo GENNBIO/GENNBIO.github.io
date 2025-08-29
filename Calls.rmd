@@ -2,7 +2,7 @@
 title: "**CALLS (Convocatorias)**"
 ---
 
-### Agosto 2025-Febrero 2026
+### ** - Agosto 2025-Febrero 2026**
 
 
 [Download pdf signed](Available by 25/08/25)
@@ -65,7 +65,7 @@ En la presente investigación se desarrolló un protocolo de construcción de ge
 
 
 -	Análisis morfológico-molecular de constructos génicos 
--	Reacción en cadena de polimerasa (PCR) semicuantitativa y análisis comparativos
+-	Reacción en cadena de polimerasa (PCR) semicuantitativa, y análisis comparativos
 -	Aislamiento, y purificación de ácidos nucleicos
 -	Sistema de electroforesis en gel de agarosa
 -	Aplicaciones moleculares
