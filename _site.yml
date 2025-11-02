@@ -22,7 +22,7 @@ navbar:
     - text: "Calls"
       href: Calls.html
     - text: "IGX"
-      href: D1NN.mp4
+      href: D2NN.mp4
       
 output:
   html_document:
