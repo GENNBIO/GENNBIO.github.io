@@ -21,10 +21,10 @@ navbar:
       href: Contacts.html
     - text: "Calls"
       href: Calls.html
-    
+   
 output:
   html_document:
-    theme: cosmo
+    theme: cyborg
     highlight: textmate
     toc: true
     toc_float: true
