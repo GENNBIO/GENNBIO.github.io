@@ -9,8 +9,8 @@ navbar:
       href: Plant-Biotechnology.html
     - text: "Molecular Genetics"
       href: Molecular-Genetics.html
-    - text: "Food & Brewing"
-      href: Food---Brewing.html
+    - text: "Brewing"
+      href: Brewing.html
     - text: "Courses"
       href: Académico.html
     - text: "Facilities"
@@ -28,7 +28,9 @@ output:
     highlight: textmate
     toc: true
     toc_float: true
-
+   
+   
+     
    
     
     
