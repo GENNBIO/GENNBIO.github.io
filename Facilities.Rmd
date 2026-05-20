@@ -25,18 +25,6 @@ ___
 
 
 <details> 
-<summary> *Wifi zones.* </summary>
-
-![*WiFi zone 1.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Wfi2_NN.jpg){width=50%}
-
-
-![*WiFi zone 2.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Loading_NN.gif){width=25%}
-
-
-</details>
-
-
-<details> 
 <summary> *Greenhouses.* </summary>
 
 
@@ -53,13 +41,6 @@ ___
 
 
 ![*Stage 3.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Stage3_NN.jpg){width=50%}
-
-
-</details>
-
-
-<details> 
-<summary> *Warehouse.* </summary>
 
 
 </details>
