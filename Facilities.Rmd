@@ -50,7 +50,7 @@ ___
 <summary> *Research, Development & Innovation (RD+i).* </summary>
 
 
-![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Clone_NN.jpg){width=50%}
+![*Clone.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Clone_NN.jpg){width=25%}
 
 
 </details>
@@ -60,10 +60,10 @@ ___
 <summary> *Field.* </summary>
 
 
-![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Maize_NN.jpg){width=50%}
+![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Maize_NN.jpg){width=25%}
 
 
-![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\SRG_NN.jpg){width=50%}
+![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\SRG_NN.jpg){width=25%}
 
 
 </details>
