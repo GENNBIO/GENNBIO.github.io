@@ -3,39 +3,10 @@ title: "**Calls**"
 ---
 
 ### **Biotecnología Vegetal**
-
-**- CONVOCATORIA: Trabajo de Titulación**
-
-
-**Diferenciación de medios de cultivo para proliferación-enraizamiento in vitro de Solanum x muricatum, y Rosa spp.** 
+**- CONVOCATORIA: Ing. Agrónomo/a, Ing. Biotecnólogo/a**
 
 
-**Resumen**
-
-
-**Palabras clave:** Multiplicación; clon; micro-esqueje; autopolinización; autoincompatibilidad
-
-
-**Aprenderás a hacer/usar:**
-
-
--	Análisis y diseño de experimentos usando Minitab, R, e Infostat
--	Preparación de medios de cultivo para tejidos vegetales específicos
--	Reguladores de crecimiento vegetal
--	Manejo y nutrición de los cultivos
--	Fungicidas, bacteriostáticos y bactericidas
-
-
-**Costo:** 
-
-
--	Pregrado 400 USD, posgrado 850 USD, coautoría artículo científico Q3-Q4 (125 USD), y prácticas preprofesionales (ask for)
-
-
--	Incluye asesoría en el texto del trabajo de titulación, y/o artículo científico 
-
-
-<br>
+**Trabajo por horas, y desarrollo de proyectos particulares que aporten al crecimiento interdisciplinario, y económico de la nación**
 
 
 ### **Ingeniería Genética Extrema (I.G.X.)**
@@ -76,40 +47,6 @@ En la presente investigación se desarrolló un protocolo de construcción de ge
 <br>
 
 
-### **Bioproductos**
-
-**- CONVOCATORIA: Trabajo de Titulación**
-
-
-**Proliferación-enraizamiento in vitro de Solanum x muricatum, y Rosa spp., y elaboración de goma de mascar con los frutos de pepino dulce** 
-
-
-**Resumen**
-
-
-**Palabras clave:** Clon; micro-esqueje; autopolinización; autoincompatibilidad; dinamómetro; chicle
-
-
-**Aprenderás a hacer/usar:**
-
-
--	Análisis y diseño de experimentos usando Minitab, R, e Infostat
--	Preparación de medios de cultivo para tejidos vegetales específicos
--	Reguladores de crecimiento vegetal
--	Manejo y nutrición de los cultivos
--	Fungicidas, bacteriostáticos y bactericidas
--	Bioproductos con valor agregado
-
-
-**Costo:** 
--	Pregrado 450 USD, posgrado 900 USD, coautoría artículo científico Q2-Q4 (125 USD), y prácticas preprofesionales (ask for)
-
-
--	Incluye asesoría en el texto del trabajo de titulación, y/o artículo científico
-
-
-<br>
-
 
 ### **Requisitos**
 - Cédula de ciudadanía o pasaporte. 
@@ -117,5 +54,7 @@ En la presente investigación se desarrolló un protocolo de construcción de ge
 - Certificado de egresamiento o título universitario en áreas afines.
 
 
-
-
+### **Lugar de trabajo**
+- Laboratorio de biotecnología vegetal, Guayaquil y Quijano & Ordóñez, Latacunga, Ecuador.
+- Campo, Salache y Locoa, Latacunga, Ecuador. 
+- Extensión, América y Asunción, Quito, Ecuador.
