@@ -58,10 +58,10 @@ ___
 <summary> *Field.* </summary>
 
 
-![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Field 1_NN.jpg){width=50%}
+![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Maize_NN.jpg){width=50%}
 
 
-![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\Field 2_NN.jpg){width=50%}
+![*Field.*](C:\Users\Usuario1\Desktop\GENNBIO.github.io\SRG_NN.jpg){width=50%}
 
 
 </details>
