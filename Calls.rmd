@@ -2,13 +2,6 @@
 title: "**Calls**"
 ---
 
-### **Biotecnología Vegetal**
-**- CONVOCATORIA: Ing. Agrónomo/a, Ing. Biotecnólogo/a**
-
-
-- Trabajo por horas, y desarrollo de proyectos particulares que aporten al crecimiento interdisciplinario, y económico de la nación.
-
-
 <br>
 
 
@@ -60,6 +53,6 @@ En la presente investigación se desarrolló un protocolo de construcción de ge
 
 
 ### **Lugar de trabajo**
-- Laboratorio de biotecnología vegetal, Guayaquil y Quijano & Ordóñez, Latacunga, Ecuador.
+- Laboratorio, Guayaquil y Quijano & Ordóñez, Latacunga, Ecuador.
 - Campo, Salache y Locoa, Latacunga, Ecuador. 
 - Extensión, América y Asunción, Quito, Ecuador.
