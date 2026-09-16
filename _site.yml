@@ -24,7 +24,7 @@ navbar:
    
 output:
   html_document:
-    theme: lumen
+    theme: flatly
     highlight: textmate
     toc: true
     toc_float: true
