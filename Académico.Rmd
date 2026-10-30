@@ -7,12 +7,12 @@ body {text-align: center}
 </style>
 ### **1. Biotecnología vegetal**
 
-| 1. Plant Biotechnology | Quantity | Price |
+| 1. Plant Biotechnology | Quantity | Price (USD) |
 |:-|:-|:-|
-| Introduction to in vitro technics  | 1 | 45.00 USD | 
-| Plant tissue culture medium formulation | 1 | 75.00 USD |
-| Anther culture | 1 | 75.00 USD |
-| Aclimatization   | 1 | 50.00 |
+| Introduction to in vitro technics  | 1 | $ 45.00 | 
+| Plant tissue culture medium formulation | 1 | $ 75.00 |
+| Anther culture | 1 | $ 75.00 |
+| Aclimatization   | 1 | $ 50.00 |
 <details> 
 <summary> Plant tissue culture medium formulation </summary>
 
@@ -84,11 +84,11 @@ Sesión 6 (zona wifi): Pepino, pimiento, cáñamo
 
 ### **2. Diseño experimental**
 
-| 2. Experimental Design | Quantity | Price |
+| 2. Experimental Design | Quantity | Price (USD) |
 |:-|:-|:-|
-| DCA, DBCA, DCL, Parcelas, Arreglos factoriales  | 1 | 45.00 USD |
-| Análisis de experimentos y uso de software R | 1 | 70.00 USD |
-| Análisis de experimentos y uso de software Minitab | 1 | 70.00 USD |
+| DCA, DBCA, DCL, Parcelas, Arreglos factoriales  | 1 | $ 45.00 |
+| Análisis de experimentos y uso de software R | 1 | $ 70.00 |
+| Análisis de experimentos y uso de software Minitab | 1 | $ 70.00 |
 | Análisis de datos moleculares | 1 | ask for |
 <details> 
 <summary> Análisis de experimentos </summary>
@@ -127,12 +127,12 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 
 ### **3. Econometría**
 
-| 3. Econometry | Quantity | Price |
+| 3. Econometry | Quantity | Price (USD) |
 |:-|:-|:-|
-| Proyecciones simples  | 1 | 30.00 USD |
-| Proyecciones múltiples | 1 | 45.00 USD |
-| Valoración y riesgo | 1 | 45.00 USD |
-| Modelos estadísticos | 1 | 75.00 USD |
+| Proyecciones simples  | 1 | $ 30.00 |
+| Proyecciones múltiples | 1 | $ 45.00 |
+| Valoración y riesgo | 1 | $ 45.00 |
+| Modelos estadísticos | 1 | $ 75.00 |
 <br>
 
 
@@ -144,13 +144,13 @@ Sesión 6 (zona wifi): Uso del software Minitab 16 y 17
 
 ### **4. Bioinformática**
 
-4. Bioinformatics | Quantity | Price |
+4. Bioinformatics | Quantity | Price (USD) |
 |:-|:-|:-|
-| Genomics repositories  | 1 | 30.00 USD |
-| Sequence homology | 1 | 45.00 USD |
-| Web sites | 1 | 80.00 USD |
-| Synbio | 1 | 80.00 USD |
-| Genetic transformation | 1 | 100.00 USD |
+| Genomics repositories  | 1 | $ 30.00 |
+| Sequence homology | 1 | $ 45.00 |
+| Web sites | 1 | $ 80.00 |
+| Synbio | 1 | $ 80.00 |
+| Genetic transformation | 1 | $ 100.00 |
 <br>
 
 
